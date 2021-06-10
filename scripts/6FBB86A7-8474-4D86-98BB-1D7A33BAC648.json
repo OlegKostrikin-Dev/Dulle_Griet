@@ -1,0 +1,1 @@
+{"@class":"MainCharacterScript","id":{"uuid":"6FBB86A7-8474-4D86-98BB-1D7A33BAC648"},"name":"MainCharacterScript","enableOnAwake":true,"character":{"uuid":"4622BA87-153E-41D2-B7B1-C3633BF74C43"},"spawner":{"uuid":"BD0D62BD-B36D-4F30-B741-CFDEAC309C0A"},"stateMachine":{"uuid":"7189AA99-8283-4B5F-A23A-24EC1739177D"}}

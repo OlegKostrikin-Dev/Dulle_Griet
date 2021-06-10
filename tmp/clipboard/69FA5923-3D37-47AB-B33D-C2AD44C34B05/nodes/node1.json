@@ -1,0 +1,78 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "CA0343AF-D3A1-4D08-8022-CBC6ED9B49B8"
+            },
+            "name": "Collider 10",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "0C5058B9-2D1D-409B-874C-D7C57BA4381B"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "B0A255C1-0C80-4190-9E42-2E9F8F03ED54"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.9335805177688599,
+                        0.0,
+                        0.3583680987358093,
+                        0.0,
+                        -0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -0.3583680987358093,
+                        -0.0,
+                        0.9335805177688599,
+                        0.0,
+                        -13.01708984375,
+                        8.827362060546875,
+                        -11.8143310546875,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -0.003366619348526001,
+                        0.0,
+                        0.9999945163726807,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        -0.9999945163726807,
+                        0.0,
+                        -0.003366619348526001,
+                        0.0,
+                        -1993.5802001953126,
+                        8.827362060546875,
+                        -216.36485290527345,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "@class": "Collider",
+    "id": {
+        "uuid": "2255CC52-7BC1-4FFA-98AE-438F0B18B7CA"
+    },
+    "colliderInfo": [
+        {
+            "@class": "ColliderInfo",
+            "collisionShape": "box",
+            "alongAxis": "oy",
+            "center": {
+                "values": [
+                    0.0,
+                    0.1941417157649994,
+                    1.266297459602356
+                ]
+            },
+            "params": {
+                "values": [
+                    1.0,
+                    11.816307067871094,
+                    4.300631999969482
+                ]
+            },
+            "color": {
+                "values": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "isSelected": false
+        }
+    ]
+}

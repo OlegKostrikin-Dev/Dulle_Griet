@@ -1,0 +1,192 @@
+[13:56:00.285352] [Import] [info] (th=2924346) Log level for 'Import' set to 'info'
+[13:56:00.285910] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dull Griet Art/Bird/Bird_T-pose.fbx
+[13:56:00.310887] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "TheBird"
+	numMeshes: 1
+	 addr: "0x7f949774b000"
+	 name: "Plane.063"
+	 numVertices: "4260"
+	 numFaces: "5844"
+	
+	
+	name: "TheBird.001"
+	numMeshes: 1
+	 addr: "0x7f949756ac00"
+	 name: "Plane.058"
+	 numVertices: "390"
+	 numFaces: "436"
+	
+	
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "Body"
+			
+				name: "shoulder.L"
+				
+					name: "leg1.R"
+					
+						name: "leg2.R"
+						
+							name: "foot.R"
+							
+								name: "toe.R"
+								
+				name: "shoulder.R"
+				
+					name: "leg1.L"
+					
+						name: "leg2.L"
+						
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+				name: "neck"
+				
+					name: "head"
+					
+						name: "jaw"
+						
+						name: "glasses1"
+						
+							name: "glasses2"
+							
+					name: "Hat"
+					
+					name: "Apron"
+					
+
+[13:56:00.310897] [Import] [info] (th=2924346) File loaded successfully
+[13:56:00.310900] [Import] [info] (th=2924346) Meshes count: 2
+[13:56:00.310901] [Import] [info] (th=2924346) Materials count: 1
+[13:56:00.312093] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dull Griet Art/Bird/E:/!_WORK/GAMEdev/Manu/Gretta/Creatures/Bird/2048/Bird_LP_bake_BaseColor.png
+[13:56:00.312133] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dull Griet Art/Bird/E:/!_WORK/GAMEdev/Manu/Gretta/Creatures/Bird/2048/Bird_LP_bake_Normal.png
+[13:56:00.312729] [Import] [info] (th=2924346) Textures count (imported): 0
+[14:03:29.375635] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dull Griet Art/Bird/Bird_Test_idle.fbx
+[14:03:29.382256] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "Body"
+			
+				name: "shoulder.L"
+				
+					name: "leg1.R"
+					
+						name: "leg2.R"
+						
+							name: "foot.R"
+							
+								name: "toe.R"
+								
+				name: "shoulder.R"
+				
+					name: "leg1.L"
+					
+						name: "leg2.L"
+						
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+				name: "neck"
+				
+					name: "head"
+					
+						name: "jaw"
+						
+						name: "glasses1"
+						
+							name: "glasses2"
+							
+					name: "Hat"
+					
+					name: "Apron"
+					
+
+[14:03:29.382265] [Import] [info] (th=2924346) File loaded successfully
+[14:03:29.382267] [Import] [info] (th=2924346) Meshes count: 0
+[14:03:29.382268] [Import] [info] (th=2924346) Materials count: 0
+[14:03:29.382293] [Import] [error] (th=2924346) Cannot find node: Apron
+[14:03:29.382295] [Import] [error] (th=2924346) Cannot find node: Armature
+[14:03:29.382297] [Import] [error] (th=2924346) Cannot find node: Body
+[14:03:29.382325] [Import] [error] (th=2924346) Cannot find node: Hat
+[14:03:29.382328] [Import] [error] (th=2924346) Cannot find node: foot.R
+[14:03:29.382330] [Import] [error] (th=2924346) Cannot find node: glasses1
+[14:03:29.382333] [Import] [error] (th=2924346) Cannot find node: glasses2
+[14:03:29.382334] [Import] [error] (th=2924346) Cannot find node: head
+[14:03:29.382336] [Import] [error] (th=2924346) Cannot find node: jaw
+[14:03:29.382338] [Import] [error] (th=2924346) Cannot find node: leg1.L
+[14:03:29.382340] [Import] [error] (th=2924346) Cannot find node: leg1.R
+[14:03:29.382342] [Import] [error] (th=2924346) Cannot find node: leg2.L
+[14:03:29.382344] [Import] [error] (th=2924346) Cannot find node: leg2.R
+[14:03:29.382349] [Import] [error] (th=2924346) Cannot find node: neck
+[14:03:29.382354] [Import] [error] (th=2924346) Cannot find node: root
+[14:03:29.382359] [Import] [error] (th=2924346) Cannot find node: shoulder.L
+[14:03:29.382361] [Import] [error] (th=2924346) Cannot find node: shoulder.R
+[14:03:29.382363] [Import] [error] (th=2924346) Cannot find node: tail1
+[14:03:29.382364] [Import] [error] (th=2924346) Cannot find node: tail2
+[14:03:29.382366] [Import] [error] (th=2924346) Cannot find node: tail3
+[14:03:29.382368] [Import] [error] (th=2924346) Cannot find node: toe.R
+[14:03:29.382369] [Import] [error] (th=2924346) File's animations are incompatible with the selected MANU's node
+[14:03:43.258093] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dull Griet Art/Bird/Bird_Test_idle.fbx
+[14:03:43.264256] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "root"
+		
+			name: "Body"
+			
+				name: "shoulder.L"
+				
+					name: "leg1.R"
+					
+						name: "leg2.R"
+						
+							name: "foot.R"
+							
+								name: "toe.R"
+								
+				name: "shoulder.R"
+				
+					name: "leg1.L"
+					
+						name: "leg2.L"
+						
+				name: "tail1"
+				
+					name: "tail2"
+					
+						name: "tail3"
+						
+				name: "neck"
+				
+					name: "head"
+					
+						name: "jaw"
+						
+						name: "glasses1"
+						
+							name: "glasses2"
+							
+					name: "Hat"
+					
+					name: "Apron"
+					
+
+[14:03:43.264265] [Import] [info] (th=2924346) File loaded successfully
+[14:03:43.264267] [Import] [info] (th=2924346) Meshes count: 0
+[14:03:43.264268] [Import] [info] (th=2924346) Materials count: 0

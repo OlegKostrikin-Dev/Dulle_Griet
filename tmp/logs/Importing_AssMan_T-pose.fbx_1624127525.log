@@ -1,0 +1,1122 @@
+[21:32:05.136269] [Import] [info] (th=2924346) Log level for 'Import' set to 'info'
+[21:32:05.136279] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_T-pose.fbx
+[21:32:05.150284] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "AssMan_Body"
+	numMeshes: 1
+	 addr: "0x7f9476bd4400"
+	 name: "MBLab_human_male.005"
+	 numVertices: "5007"
+	 numFaces: "7969"
+	
+	
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:32:05.150292] [Import] [info] (th=2924346) File loaded successfully
+[21:32:05.150294] [Import] [info] (th=2924346) Meshes count: 1
+[21:32:05.150295] [Import] [info] (th=2924346) Materials count: 1
+[21:32:05.150381] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/E:/!_WORK/GAMEdev/Manu/Gretta/Creatures/AssMan/2k/AssMan_LP_bake_BaseColor.png
+[21:32:05.150409] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/E:/!_WORK/GAMEdev/Manu/Gretta/Creatures/AssMan/2k/AssMan_LP_bake_Normal.png
+[21:32:05.150416] [Import] [info] (th=2924346) Textures count (imported): 0
+[21:33:49.687686] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_idle.fbx
+[21:33:49.696927] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:33:49.696935] [Import] [info] (th=2924346) File loaded successfully
+[21:33:49.696937] [Import] [info] (th=2924346) Meshes count: 0
+[21:33:49.696938] [Import] [info] (th=2924346) Materials count: 0
+[21:33:49.696971] [Import] [error] (th=2924346) Can't find mesh for replace.
+[21:34:00.273168] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_idle.fbx
+[21:34:00.283360] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:34:00.283369] [Import] [info] (th=2924346) File loaded successfully
+[21:34:00.283371] [Import] [info] (th=2924346) Meshes count: 0
+[21:34:00.283372] [Import] [info] (th=2924346) Materials count: 0
+[21:34:00.283397] [Import] [error] (th=2924346) Can't find mesh for replace.
+[21:34:10.422170] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_idle.fbx
+[21:34:10.432299] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:34:10.432308] [Import] [info] (th=2924346) File loaded successfully
+[21:34:10.432319] [Import] [info] (th=2924346) Meshes count: 0
+[21:34:10.432320] [Import] [info] (th=2924346) Materials count: 0
+[21:34:10.432345] [Import] [error] (th=2924346) Can't find mesh for replace.
+[21:34:20.638701] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_idle.fbx
+[21:34:20.648708] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:34:20.648717] [Import] [info] (th=2924346) File loaded successfully
+[21:34:20.648719] [Import] [info] (th=2924346) Meshes count: 0
+[21:34:20.648720] [Import] [info] (th=2924346) Materials count: 0
+[21:34:20.648723] [Import] [info] (th=2924346) Textures count (imported): 0
+[21:35:52.283313] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_idle.fbx
+[21:35:52.294076] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:35:52.294086] [Import] [info] (th=2924346) File loaded successfully
+[21:35:52.294088] [Import] [info] (th=2924346) Meshes count: 0
+[21:35:52.294090] [Import] [info] (th=2924346) Materials count: 0
+[21:38:06.442308] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_walk.fbx
+[21:38:06.453164] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:38:06.453174] [Import] [info] (th=2924346) File loaded successfully
+[21:38:06.453176] [Import] [info] (th=2924346) Meshes count: 0
+[21:38:06.453177] [Import] [info] (th=2924346) Materials count: 0
+[21:38:14.724121] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_walkBack.fbx
+[21:38:14.734739] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[21:38:14.734749] [Import] [info] (th=2924346) File loaded successfully
+[21:38:14.734751] [Import] [info] (th=2924346) Meshes count: 0
+[21:38:14.734752] [Import] [info] (th=2924346) Materials count: 0
+[22:13:38.299517] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/BarellMan/BarrelMan_idle.fbx
+[22:13:38.349908] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "BarrelMan.002"
+	numMeshes: 1
+	 addr: "0x7f9496c26e00"
+	 name: "Circle.034"
+	 numVertices: "10240"
+	 numFaces: "12746"
+	
+	
+	name: "JAws"
+	numMeshes: 1
+	 addr: "0x7f9476b79200"
+	 name: "Plane.004"
+	 numVertices: "824"
+	 numFaces: "1020"
+	
+	
+	name: "Armature"
+	
+		name: "barrel"
+		
+			name: "arm_F.L"
+			
+				name: "forearm_F.L"
+				
+					name: "hand_F.L"
+					
+						name: "f_ind1_F.L"
+						
+							name: "f_ind2_F.L"
+							
+								name: "f_ind3_F.L"
+								
+						name: "f_mid1_F.L"
+						
+							name: "f_mid2_F.L"
+							
+								name: "f_mid3_F.L"
+								
+						name: "f_ring1_F.L"
+						
+							name: "f_ring2_F.L"
+							
+								name: "f_ring3_F.L"
+								
+						name: "f_lit1_F.L"
+						
+							name: "f_lit2_F.L"
+							
+								name: "f_lit3_F.L"
+								
+						name: "f_thumb1_F.L"
+						
+							name: "f_thumb2_F.L"
+							
+								name: "f_thumb3_F.L"
+								
+			name: "arm_R.L"
+			
+				name: "forearm_R.L"
+				
+					name: "hand_R.L"
+					
+						name: "f_ind1_R.L"
+						
+							name: "f_ind2_R.L"
+							
+								name: "f_ind3_R.L"
+								
+						name: "f_mid1_R.L"
+						
+							name: "f_mid2_R.L"
+							
+								name: "f_mid3_R.L"
+								
+						name: "f_ring1_R.L"
+						
+							name: "f_ring2_R.L"
+							
+								name: "f_ring3_R.L"
+								
+						name: "f_lit1_R.L"
+						
+							name: "f_lit2_R.L"
+							
+								name: "f_lit3_R.L"
+								
+						name: "f_thumb1_R.L"
+						
+							name: "f_thumb2_R.L"
+							
+								name: "f_thumb3_R.L"
+								
+			name: "arm_F.R"
+			
+				name: "forearm_F.R"
+				
+					name: "hand_F.R"
+					
+						name: "f_ind1_F.R"
+						
+							name: "f_ind2_F.R"
+							
+								name: "f_ind3_F.R"
+								
+						name: "f_mid1_F.R"
+						
+							name: "f_mid2_F.R"
+							
+								name: "f_mid3_F.R"
+								
+						name: "f_ring1_F.R"
+						
+							name: "f_ring2_F.R"
+							
+								name: "f_ring3_F.R"
+								
+						name: "f_lit1_F.R"
+						
+							name: "f_lit2_F.R"
+							
+								name: "f_lit3_F.R"
+								
+						name: "f_thumb1_F.R"
+						
+							name: "f_thumb2_F.R"
+							
+								name: "f_thumb3_F.R"
+								
+			name: "arm_R.R"
+			
+				name: "forearm_R.R"
+				
+					name: "hand_R.R"
+					
+						name: "f_ind1_R.R"
+						
+							name: "f_ind2_R.R"
+							
+								name: "f_ind3_R.R"
+								
+						name: "f_mid1_R.R"
+						
+							name: "f_mid2_R.R"
+							
+								name: "f_mid3_R.R"
+								
+						name: "f_ring1_R.R"
+						
+							name: "f_ring2_R.R"
+							
+								name: "f_ring3_R.R"
+								
+						name: "f_lit1_R.R"
+						
+							name: "f_lit2_R.R"
+							
+								name: "f_lit3_R.R"
+								
+						name: "f_thumb1_R.R"
+						
+							name: "f_thumb2_R.R"
+							
+								name: "f_thumb3_R.R"
+								
+			name: "jaw"
+			
+				name: "lip_bottom.L"
+				
+				name: "lip_bottom.R"
+				
+				name: "lip_bottom_center"
+				
+			name: "brown_in.L"
+			
+			name: "brown_out.L"
+			
+			name: "cheek.L"
+			
+			name: "lip_upper.L"
+			
+			name: "lip_side.L"
+			
+			name: "brown_in.R"
+			
+			name: "brown_out.R"
+			
+			name: "cheek.R"
+			
+			name: "lip_upper.R"
+			
+			name: "lip_side.R"
+			
+			name: "Eye.L"
+			
+			name: "Eyelid_upper.L"
+			
+			name: "Eyelid_bottom.L"
+			
+			name: "Eye.R"
+			
+			name: "Eyelid_upper.R"
+			
+			name: "Eyelid_bottom.R"
+			
+			name: "lip_up_center"
+			
+			name: "nose.R"
+			
+			name: "nose.L"
+			
+
+[22:13:38.349918] [Import] [info] (th=2924346) File loaded successfully
+[22:13:38.349931] [Import] [info] (th=2924346) Meshes count: 2
+[22:13:38.349932] [Import] [info] (th=2924346) Materials count: 2
+[22:13:38.350030] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dulle Griet Art/Creatures/BarellMan/E:/!_WORK/GAMEdev/Manu/Gretta/Creatures/BarrelMan/Textures/2048/BarrelMan_LP_Bake_BaseColor_Bright.png
+[22:13:38.350058] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dulle Griet Art/Creatures/BarellMan/E:/!_WORK/GAMEdev/Manu/Gretta/Creatures/BarrelMan/Textures/2048/BarrelMan_LP_Bake_Normal.png
+[22:13:38.350110] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dulle Griet Art/Creatures/BarellMan/E:/!_BLENDER/!MODELS/!SKULL_my/Jaws_bake/1024/Jaw_LP_BaseColor.png
+[22:13:38.350137] [Import] [warning] (th=2924346) Texture not found: /Users/oleg/Dropbox/Dulle Griet Art/Creatures/BarellMan/E:/!_BLENDER/!MODELS/!SKULL_my/Jaws_bake/1024/Jaw_LP_Normal.png
+[22:13:38.350144] [Import] [info] (th=2924346) Textures count (imported): 0
+[22:13:55.014053] [Import] [info] (th=2924346) Importing from /Users/oleg/Dropbox/Dulle Griet Art/Creatures/AssMan/AssMan_idle.fbx
+[22:13:55.024292] [Import] [info] (th=2924346) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "head"
+		
+			name: "Shoulder.L"
+			
+				name: "arm"
+				
+					name: "forearm"
+					
+						name: "hand"
+						
+							name: "f_ind1"
+							
+								name: "f_ind2"
+								
+									name: "f_ind3"
+									
+							name: "f_mid1"
+							
+								name: "f_mid2"
+								
+									name: "f_mid3"
+									
+							name: "f_ring1"
+							
+								name: "f_ring2"
+								
+									name: "f_ring3"
+									
+							name: "f_lit1"
+							
+								name: "f_lit2"
+								
+									name: "f_lit3"
+									
+							name: "f_thumb1"
+							
+								name: "f_thumb2"
+								
+									name: "f_thumb3"
+									
+			name: "Shoulder.R"
+			
+				name: "leg1"
+				
+					name: "leg2"
+					
+						name: "foot"
+						
+							name: "toe"
+							
+			name: "eye.L"
+			
+			name: "eyelid_upper.L"
+			
+			name: "eyelid_bottom.L"
+			
+			name: "eyebrow_center.L"
+			
+			name: "cheek.L"
+			
+			name: "mouth_side.L"
+			
+			name: "eye.R"
+			
+			name: "eyelid_upper.R"
+			
+			name: "eyelid_bottom.R"
+			
+			name: "eyebrow_center.R"
+			
+			name: "eyebrow_sidel.R"
+			
+			name: "cheek.R"
+			
+			name: "mouth_side.R"
+			
+			name: "Jaw"
+			
+				name: "Lip_bottom.L"
+				
+				name: "Lip_bottom.R"
+				
+			name: "Lip_upper.L"
+			
+			name: "Lip_upper.R"
+			
+			name: "eyebrow_sidel.L"
+			
+
+[22:13:55.024301] [Import] [info] (th=2924346) File loaded successfully
+[22:13:55.024311] [Import] [info] (th=2924346) Meshes count: 0
+[22:13:55.024312] [Import] [info] (th=2924346) Materials count: 0
+[22:13:55.024315] [Import] [info] (th=2924346) Textures count (imported): 0

@@ -1,0 +1,51 @@
+[12:09:06.549500] [Import] [info] (th=632) Log level for 'Import' set to 'info'
+[12:09:06.549726] [Import] [info] (th=632) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\EGG\Single_rock.fbx
+[12:09:06.554383] [Import] [info] (th=632) Imported scene tree:
+name: "RootNode"
+
+	name: "Single_rock"
+	numMeshes: 1
+	 addr: "000001EB81BEBE50"
+	 name: "Plane.026"
+	 numVertices: "1030"
+	 numFaces: "879"
+	
+	
+
+[12:09:06.554422] [Import] [info] (th=632) File loaded successfully
+[12:09:06.554455] [Import] [info] (th=632) Meshes count: 1
+[12:09:06.554488] [Import] [info] (th=632) Materials count: 1
+[12:09:06.554968] [Import] [info] (th=632) Textures count (imported): 2
+[12:11:21.832958] [Import] [info] (th=632) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\EGG\Rocks.fbx
+[12:11:21.837554] [Import] [info] (th=632) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane"
+	numMeshes: 1
+	 addr: "000001EB81BECE40"
+	 name: "Plane.021"
+	 numVertices: "336"
+	 numFaces: "393"
+	
+	
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000001EB81BED390"
+	 name: "Plane.022"
+	 numVertices: "378"
+	 numFaces: "418"
+	
+	
+	name: "Plane.003"
+	numMeshes: 1
+	 addr: "000001EB81BEA910"
+	 name: "Plane.024"
+	 numVertices: "114"
+	 numFaces: "174"
+	
+	
+
+[12:11:21.837691] [Import] [info] (th=632) File loaded successfully
+[12:11:21.837740] [Import] [info] (th=632) Meshes count: 3
+[12:11:21.837794] [Import] [info] (th=632) Materials count: 2
+[12:11:21.838300] [Import] [info] (th=632) Textures count (imported): 4

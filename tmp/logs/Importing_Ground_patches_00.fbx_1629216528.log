@@ -1,0 +1,263 @@
+[19:08:48.497519] [Import] [info] (th=19880) Log level for 'Import' set to 'info'
+[19:08:48.498472] [Import] [info] (th=19880) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\Ground_patches_00.fbx
+[19:08:48.655436] [Import] [info] (th=19880) Imported scene tree:
+name: "RootNode"
+
+	name: "Light"
+	
+	name: "Camera"
+	
+	name: "GP_00"
+	numMeshes: 1
+	 addr: "00000243B70D0C40"
+	 name: "Plane.001"
+	 numVertices: "175"
+	 numFaces: "258"
+	
+	
+	name: "GP_01"
+	numMeshes: 1
+	 addr: "00000243B70D1190"
+	 name: "Plane.005"
+	 numVertices: "194"
+	 numFaces: "313"
+	
+	
+	name: "GP_02"
+	numMeshes: 1
+	 addr: "00000243B70D06F0"
+	 name: "Plane.006"
+	 numVertices: "291"
+	 numFaces: "472"
+	
+	
+	name: "GP_03"
+	numMeshes: 1
+	 addr: "00000243B70CE710"
+	 name: "Plane.009"
+	 numVertices: "215"
+	 numFaces: "308"
+	
+	
+	name: "Single_rock2"
+	numMeshes: 1
+	 addr: "00000243B70CE1C0"
+	 name: "Plane.010"
+	 numVertices: "842"
+	 numFaces: "923"
+	
+	
+	name: "GP_04"
+	numMeshes: 1
+	 addr: "00000243B70D1C30"
+	 name: "Plane.004"
+	 numVertices: "113"
+	 numFaces: "192"
+	
+	
+	name: "Rock_hi1"
+	numMeshes: 1
+	 addr: "00000243B70D2180"
+	 name: "Plane.021"
+	 numVertices: "840"
+	 numFaces: "421"
+	
+	
+	name: "Rock_mid1"
+	numMeshes: 1
+	 addr: "00000243B70D36C0"
+	 name: "Plane.022"
+	 numVertices: "419"
+	 numFaces: "444"
+	
+	
+	name: "Rock_low2"
+	numMeshes: 1
+	 addr: "00000243B70CF1B0"
+	 name: "Plane.024"
+	 numVertices: "494"
+	 numFaces: "813"
+	
+	
+	name: "Single_rock1"
+	numMeshes: 1
+	 addr: "00000243B70D3C10"
+	 name: "Plane.026"
+	 numVertices: "1117"
+	 numFaces: "921"
+	
+	
+	name: "Rock_hi2"
+	numMeshes: 1
+	 addr: "00000243B70CF700"
+	 name: "Plane.003"
+	 numVertices: "395"
+	 numFaces: "398"
+	
+	
+	name: "Rock_low1"
+	numMeshes: 1
+	 addr: "00000243B70D26D0"
+	 name: "Plane.007"
+	 numVertices: "141"
+	 numFaces: "232"
+	
+	
+	name: "GP_05"
+	numMeshes: 1
+	 addr: "00000243B70D4160"
+	 name: "Plane.012"
+	 numVertices: "384"
+	 numFaces: "192"
+	
+	
+	name: "Rock_mid2"
+	numMeshes: 1
+	 addr: "00000243B70D2C20"
+	 name: "Plane.013"
+	 numVertices: "386"
+	 numFaces: "400"
+	
+	
+	name: "Rock_low3"
+	numMeshes: 1
+	 addr: "00000243B70D46B0"
+	 name: "Plane.014"
+	 numVertices: "168"
+	 numFaces: "232"
+	
+	
+
+[19:08:48.655484] [Import] [info] (th=19880) File loaded successfully
+[19:08:48.655516] [Import] [info] (th=19880) Meshes count: 15
+[19:08:48.655549] [Import] [info] (th=19880) Materials count: 7
+[19:08:48.666082] [Import] [info] (th=19880) Textures count (imported): 12
+[19:09:58.366820] [Import] [info] (th=19880) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\Ground_patches_00.fbx
+[19:09:58.382960] [Import] [info] (th=19880) Imported scene tree:
+name: "RootNode"
+
+	name: "GP_00"
+	numMeshes: 1
+	 addr: "00000243B70D16E0"
+	 name: "Plane.001"
+	 numVertices: "175"
+	 numFaces: "258"
+	
+	
+	name: "GP_01"
+	numMeshes: 1
+	 addr: "00000243B70D4C00"
+	 name: "Plane.005"
+	 numVertices: "194"
+	 numFaces: "313"
+	
+	
+	name: "GP_02"
+	numMeshes: 1
+	 addr: "00000243B70D5150"
+	 name: "Plane.006"
+	 numVertices: "293"
+	 numFaces: "472"
+	
+	
+	name: "GP_03"
+	numMeshes: 1
+	 addr: "00000243B70D56A0"
+	 name: "Plane.009"
+	 numVertices: "214"
+	 numFaces: "308"
+	
+	
+	name: "Single_rock2"
+	numMeshes: 1
+	 addr: "00000243B70D5BF0"
+	 name: "Plane.010"
+	 numVertices: "842"
+	 numFaces: "923"
+	
+	
+	name: "GP_04"
+	numMeshes: 1
+	 addr: "00000243B70CEC60"
+	 name: "Plane.004"
+	 numVertices: "113"
+	 numFaces: "192"
+	
+	
+	name: "Rock_hi1"
+	numMeshes: 1
+	 addr: "00000243B6CB1430"
+	 name: "Plane.021"
+	 numVertices: "840"
+	 numFaces: "421"
+	
+	
+	name: "Rock_mid1"
+	numMeshes: 1
+	 addr: "00000244A3D4D0B0"
+	 name: "Plane.022"
+	 numVertices: "419"
+	 numFaces: "444"
+	
+	
+	name: "Rock_low2"
+	numMeshes: 1
+	 addr: "00000244A3D525B0"
+	 name: "Plane.024"
+	 numVertices: "494"
+	 numFaces: "813"
+	
+	
+	name: "Single_rock1"
+	numMeshes: 1
+	 addr: "00000244A3D515C0"
+	 name: "Plane.026"
+	 numVertices: "1117"
+	 numFaces: "921"
+	
+	
+	name: "Rock_hi2"
+	numMeshes: 1
+	 addr: "00000244A3D52B00"
+	 name: "Plane.003"
+	 numVertices: "395"
+	 numFaces: "398"
+	
+	
+	name: "Rock_low1"
+	numMeshes: 1
+	 addr: "00000244A3D4E5F0"
+	 name: "Plane.007"
+	 numVertices: "141"
+	 numFaces: "232"
+	
+	
+	name: "GP_05"
+	numMeshes: 1
+	 addr: "00000244A3D51B10"
+	 name: "Plane.012"
+	 numVertices: "384"
+	 numFaces: "192"
+	
+	
+	name: "Rock_mid2"
+	numMeshes: 1
+	 addr: "00000244A3D4F5E0"
+	 name: "Plane.013"
+	 numVertices: "386"
+	 numFaces: "400"
+	
+	
+	name: "Rock_low3"
+	numMeshes: 1
+	 addr: "00000244A3D4DB50"
+	 name: "Plane.014"
+	 numVertices: "168"
+	 numFaces: "232"
+	
+	
+
+[19:09:58.383003] [Import] [info] (th=19880) File loaded successfully
+[19:09:58.383037] [Import] [info] (th=19880) Meshes count: 15
+[19:09:58.383069] [Import] [info] (th=19880) Materials count: 7
+[19:09:58.384423] [Import] [info] (th=19880) Textures count (imported): 12

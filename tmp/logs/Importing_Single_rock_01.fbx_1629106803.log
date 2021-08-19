@@ -1,0 +1,226 @@
+[12:40:03.751109] [Import] [info] (th=20252) Log level for 'Import' set to 'info'
+[12:40:03.751204] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\EGG\Ground_Patches\EXPORT\Single_rock_01.fbx
+[12:40:03.755180] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+	name: "Single_rock"
+	numMeshes: 1
+	 addr: "000001A275E180D0"
+	 name: "Plane.026"
+	 numVertices: "1030"
+	 numFaces: "879"
+	
+	
+
+[12:40:03.755228] [Import] [info] (th=20252) File loaded successfully
+[12:40:03.755267] [Import] [info] (th=20252) Meshes count: 1
+[12:40:03.755302] [Import] [info] (th=20252) Materials count: 1
+[16:24:06.849094] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\Ground_constructor\Pavements_1.fbx
+[16:24:06.867939] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+
+[16:24:06.868113] [Import] [info] (th=20252) File loaded successfully
+[16:24:06.868174] [Import] [info] (th=20252) Meshes count: 0
+[16:24:06.868215] [Import] [info] (th=20252) Materials count: 0
+[16:24:06.869001] [Import] [info] (th=20252) Textures count (imported): 0
+[16:24:45.921239] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\Ground_constructor\Pavements_1.fbx
+[16:24:45.922058] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+
+[16:24:45.922099] [Import] [info] (th=20252) File loaded successfully
+[16:24:45.922136] [Import] [info] (th=20252) Meshes count: 0
+[16:24:45.922169] [Import] [info] (th=20252) Materials count: 0
+[16:24:45.922206] [Import] [info] (th=20252) Textures count (imported): 0
+[16:25:38.418383] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\Ground_constructor\Pavements_1.fbx
+[16:25:38.445639] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+	name: "Bridge"
+	numMeshes: 2
+	 addr: "000001A275E14660"
+	 name: "Plane"
+	 numVertices: "469"
+	 numFaces: "398"
+	
+	 addr: "000001A275E14BB0"
+	 name: "Plane"
+	 numVertices: "302"
+	 numFaces: "240"
+	
+	
+	name: "Plane"
+	numMeshes: 2
+	 addr: "000001A275E15650"
+	 name: "Plane.001"
+	 numVertices: "308"
+	 numFaces: "112"
+	
+	 addr: "000001A275E160F0"
+	 name: "Plane.001"
+	 numVertices: "596"
+	 numFaces: "266"
+	
+	
+	name: "Plane.001"
+	numMeshes: 2
+	 addr: "000001A275E16640"
+	 name: "Plane.003"
+	 numVertices: "391"
+	 numFaces: "176"
+	
+	 addr: "000001A275E16B90"
+	 name: "Plane.003"
+	 numVertices: "103"
+	 numFaces: "59"
+	
+	
+
+[16:25:38.445683] [Import] [info] (th=20252) File loaded successfully
+[16:25:38.445721] [Import] [info] (th=20252) Meshes count: 6
+[16:25:38.445755] [Import] [info] (th=20252) Materials count: 2
+[16:25:38.529360] [Import] [info] (th=20252) Textures count (imported): 4
+[16:27:14.123821] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\Ground_constructor\Pavements_1.fbx
+[16:27:14.128573] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+	name: "Bridge"
+	numMeshes: 2
+	 addr: "000001A272D74700"
+	 name: "Plane"
+	 numVertices: "469"
+	 numFaces: "398"
+	
+	 addr: "000001A272D776D0"
+	 name: "Plane"
+	 numVertices: "302"
+	 numFaces: "240"
+	
+	
+	name: "Plane"
+	numMeshes: 2
+	 addr: "000001A272D751A0"
+	 name: "Plane.001"
+	 numVertices: "308"
+	 numFaces: "112"
+	
+	 addr: "000001A2CD188A20"
+	 name: "Plane.001"
+	 numVertices: "596"
+	 numFaces: "266"
+	
+	
+	name: "Plane.001"
+	numMeshes: 2
+	 addr: "000001A2CD18B4A0"
+	 name: "Plane.003"
+	 numVertices: "391"
+	 numFaces: "176"
+	
+	 addr: "000001A2CD1864F0"
+	 name: "Plane.003"
+	 numVertices: "103"
+	 numFaces: "59"
+	
+	
+
+[16:27:14.128615] [Import] [info] (th=20252) File loaded successfully
+[16:27:14.128654] [Import] [info] (th=20252) Meshes count: 6
+[16:27:14.128730] [Import] [info] (th=20252) Materials count: 2
+[16:27:14.129205] [Import] [info] (th=20252) Textures count (imported): 4
+[16:57:56.757736] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\SCENE_main_parts\Head_round_wall.fbx
+[16:57:56.759852] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+	name: "Head_Round_wall"
+	numMeshes: 1
+	 addr: "000001A2CD186A40"
+	 name: "Plane.044"
+	 numVertices: "116"
+	 numFaces: "77"
+	
+	
+
+[16:57:56.759891] [Import] [info] (th=20252) File loaded successfully
+[16:57:56.759926] [Import] [info] (th=20252) Meshes count: 1
+[16:57:56.759959] [Import] [info] (th=20252) Materials count: 1
+[17:06:13.807957] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\SCENE_main_parts\Head_round_wall.fbx
+[17:06:13.810544] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+	name: "Head_Round_wall"
+	numMeshes: 2
+	 addr: "000001A2CD186F90"
+	 name: "Plane.044"
+	 numVertices: "116"
+	 numFaces: "77"
+	
+	 addr: "000001A2CD188F70"
+	 name: "Plane.044"
+	 numVertices: "366"
+	 numFaces: "235"
+	
+	
+
+[17:06:13.810745] [Import] [info] (th=20252) File loaded successfully
+[17:06:13.810841] [Import] [info] (th=20252) Meshes count: 2
+[17:06:13.810882] [Import] [info] (th=20252) Materials count: 2
+[17:06:13.811507] [Import] [info] (th=20252) Textures count (imported): 4
+[17:14:07.804454] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\EGG\Ground_Patches\EXPORT\Ground_patches.fbx
+[17:14:07.811047] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+	name: "GP_00a"
+	numMeshes: 1
+	 addr: "000001A2CD189F60"
+	 name: "Plane.001"
+	 numVertices: "155"
+	 numFaces: "258"
+	
+	
+	name: "GP_00b"
+	numMeshes: 1
+	 addr: "000001A2CD18A4B0"
+	 name: "Plane.005"
+	 numVertices: "172"
+	 numFaces: "258"
+	
+	
+	name: "GP_01a"
+	numMeshes: 1
+	 addr: "000001A2CD1894C0"
+	 name: "Plane.006"
+	 numVertices: "165"
+	 numFaces: "274"
+	
+	
+	name: "GP_01b"
+	numMeshes: 1
+	 addr: "000001A2CD1874E0"
+	 name: "Plane.009"
+	 numVertices: "168"
+	 numFaces: "274"
+	
+	
+	name: "GP_02a"
+	numMeshes: 1
+	 addr: "000001A2CD185A50"
+	 name: "Plane.010"
+	 numVertices: "839"
+	 numFaces: "911"
+	
+	
+	name: "GP_03a"
+	numMeshes: 1
+	 addr: "000001A2CD187F80"
+	 name: "Plane.004"
+	 numVertices: "113"
+	 numFaces: "192"
+	
+	
+
+[17:14:07.811087] [Import] [info] (th=20252) File loaded successfully
+[17:14:07.811122] [Import] [info] (th=20252) Meshes count: 6
+[17:14:07.811154] [Import] [info] (th=20252) Materials count: 4
+[17:14:07.811973] [Import] [info] (th=20252) Textures count (imported): 8

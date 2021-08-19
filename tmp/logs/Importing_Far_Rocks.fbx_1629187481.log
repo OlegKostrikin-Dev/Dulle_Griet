@@ -1,0 +1,50 @@
+[11:04:41.322695] [Import] [info] (th=20252) Log level for 'Import' set to 'info'
+[11:04:41.359653] [Import] [info] (th=20252) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\EGG\Ground_Patches\EXPORT\Far_Rocks.fbx
+[11:04:41.496483] [Import] [info] (th=20252) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.030"
+	numMeshes: 1
+	 addr: "00000257A97F5900"
+	 name: "Plane.030"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.035"
+	numMeshes: 1
+	 addr: "00000257A97F63A0"
+	 name: "Plane.034"
+	 numVertices: "94"
+	 numFaces: "146"
+	
+	
+	name: "Plane.036"
+	numMeshes: 1
+	 addr: "00000257A97F6E40"
+	 name: "Plane.037"
+	 numVertices: "43"
+	 numFaces: "52"
+	
+	
+	name: "Plane.038"
+	numMeshes: 1
+	 addr: "00000257A97F7E30"
+	 name: "Plane.040"
+	 numVertices: "91"
+	 numFaces: "144"
+	
+	
+	name: "Plane.039"
+	numMeshes: 1
+	 addr: "00000257A97F3920"
+	 name: "Plane.041"
+	 numVertices: "93"
+	 numFaces: "146"
+	
+	
+
+[11:04:41.496528] [Import] [info] (th=20252) File loaded successfully
+[11:04:41.496561] [Import] [info] (th=20252) Meshes count: 5
+[11:04:41.496594] [Import] [info] (th=20252) Materials count: 1
+[11:04:41.507322] [Import] [info] (th=20252) Textures count (imported): 2

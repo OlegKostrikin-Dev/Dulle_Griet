@@ -1,0 +1,147 @@
+[09:02:07.710466] [Import] [info] (th=4120) Log level for 'Import' set to 'info'
+[09:02:07.738620] [Import] [info] (th=4120) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\Ground_constructor\FAR_rocks.fbx
+[09:02:07.883806] [Import] [info] (th=4120) Imported scene tree:
+name: "RootNode"
+
+	name: "FAR_mount_02"
+	numMeshes: 1
+	 addr: "00000250D02F0AE0"
+	 name: "Plane.041"
+	 numVertices: "180"
+	 numFaces: "246"
+	
+	
+	name: "FAR_mount_01"
+	numMeshes: 1
+	 addr: "00000250D02F1030"
+	 name: "Plane.034"
+	 numVertices: "406"
+	 numFaces: "276"
+	
+	
+	name: "FAR_mount_03"
+	numMeshes: 1
+	 addr: "00000250D02F4AA0"
+	 name: "Plane.037"
+	 numVertices: "249"
+	 numFaces: "306"
+	
+	
+
+[09:02:07.883852] [Import] [info] (th=4120) File loaded successfully
+[09:02:07.883886] [Import] [info] (th=4120) Meshes count: 3
+[09:02:07.883920] [Import] [info] (th=4120) Materials count: 1
+[09:02:07.910375] [Import] [info] (th=4120) Textures count (imported): 2
+[09:11:52.631756] [Import] [info] (th=4120) Importing from E:\!FOR_ASSETS\Nature\Grass1\Grass_2sided.fbx
+[09:11:52.641324] [Import] [info] (th=4120) Imported scene tree:
+name: "RootNode"
+
+	name: "Grass1"
+	numMeshes: 1
+	 addr: "00000250D02F0040"
+	 name: "Plane.020"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Grass2"
+	numMeshes: 1
+	 addr: "00000250D02F3560"
+	 name: "Plane.021"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Bush1"
+	numMeshes: 1
+	 addr: "00000250D02EF5A0"
+	 name: "Plane.022"
+	 numVertices: "312"
+	 numFaces: "144"
+	
+	
+		name: "Bush1_leaves"
+		numMeshes: 1
+		 addr: "00000250D02F3AB0"
+		 name: "Plane.023"
+		 numVertices: "409"
+		 numFaces: "300"
+		
+		
+	name: "Bush1_nude"
+	numMeshes: 1
+	 addr: "00000250D02EDB10"
+	 name: "Plane.024"
+	 numVertices: "312"
+	 numFaces: "144"
+	
+	
+	name: "Straw1"
+	numMeshes: 1
+	 addr: "00000250D02EE060"
+	 name: "Plane.025"
+	 numVertices: "72"
+	 numFaces: "36"
+	
+	
+	name: "Starw2"
+	numMeshes: 1
+	 addr: "00000250137710A0"
+	 name: "Plane.026"
+	 numVertices: "136"
+	 numFaces: "68"
+	
+	
+	name: "Weed2"
+	numMeshes: 1
+	 addr: "000002501376B100"
+	 name: "Plane.027"
+	 numVertices: "202"
+	 numFaces: "94"
+	
+	
+	name: "Weed1"
+	numMeshes: 1
+	 addr: "000002504A185EF0"
+	 name: "Plane.028"
+	 numVertices: "150"
+	 numFaces: "74"
+	
+	
+	name: "SmallWeed2"
+	numMeshes: 1
+	 addr: "000002504A183F10"
+	 name: "Plane.029"
+	 numVertices: "72"
+	 numFaces: "36"
+	
+	
+	name: "SmallWeed1"
+	numMeshes: 1
+	 addr: "000002504A184F00"
+	 name: "Plane.030"
+	 numVertices: "64"
+	 numFaces: "32"
+	
+	
+	name: "RandomGrass1"
+	numMeshes: 1
+	 addr: "000002504A18AEA0"
+	 name: "Plane.031"
+	 numVertices: "112"
+	 numFaces: "56"
+	
+	
+	name: "RandomGrass2"
+	numMeshes: 1
+	 addr: "000002504A186EE0"
+	 name: "Plane.032"
+	 numVertices: "578"
+	 numFaces: "202"
+	
+	
+
+[09:11:52.641432] [Import] [info] (th=4120) File loaded successfully
+[09:11:52.641521] [Import] [info] (th=4120) Meshes count: 13
+[09:11:52.641606] [Import] [info] (th=4120) Materials count: 1
+[09:11:52.641759] [Import] [info] (th=4120) Textures count (imported): 0

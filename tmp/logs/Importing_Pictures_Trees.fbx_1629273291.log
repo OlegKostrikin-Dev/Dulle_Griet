@@ -1,0 +1,87 @@
+[10:54:51.692896] [Import] [info] (th=26756) Log level for 'Import' set to 'info'
+[10:54:51.719753] [Import] [info] (th=26756) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\Pictures_Trees.fbx
+[10:54:51.891580] [Import] [info] (th=26756) Imported scene tree:
+name: "RootNode"
+
+	name: "Tree_1"
+	numMeshes: 2
+	 addr: "0000017831344870"
+	 name: "Plane.018"
+	 numVertices: "4750"
+	 numFaces: "4252"
+	
+	 addr: "0000017831345310"
+	 name: "Plane.018"
+	 numVertices: "862"
+	 numFaces: "432"
+	
+	
+	name: "Tree_2"
+	numMeshes: 2
+	 addr: "0000017831346DA0"
+	 name: "Plane.007"
+	 numVertices: "3374"
+	 numFaces: "2472"
+	
+	 addr: "0000017831345860"
+	 name: "Plane.007"
+	 numVertices: "648"
+	 numFaces: "324"
+	
+	
+	name: "Tree_3"
+	numMeshes: 1
+	 addr: "0000017831345DB0"
+	 name: "Plane.006"
+	 numVertices: "1446"
+	 numFaces: "1667"
+	
+	
+
+[10:54:51.891654] [Import] [info] (th=26756) File loaded successfully
+[10:54:51.891708] [Import] [info] (th=26756) Meshes count: 5
+[10:54:51.891770] [Import] [info] (th=26756) Materials count: 5
+[10:54:51.915858] [Import] [info] (th=26756) Textures count (imported): 0
+[11:06:21.370969] [Import] [info] (th=26756) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\TERRAIN\Pictures_Trees.fbx
+[11:06:21.394288] [Import] [info] (th=26756) Imported scene tree:
+name: "RootNode"
+
+	name: "Tree_1"
+	numMeshes: 2
+	 addr: "00000178313492D0"
+	 name: "Plane.018"
+	 numVertices: "4750"
+	 numFaces: "4252"
+	
+	 addr: "00000178313472F0"
+	 name: "Plane.018"
+	 numVertices: "862"
+	 numFaces: "432"
+	
+	
+	name: "Tree_2"
+	numMeshes: 2
+	 addr: "0000017831344320"
+	 name: "Plane.007"
+	 numVertices: "3374"
+	 numFaces: "2472"
+	
+	 addr: "0000017831347D90"
+	 name: "Plane.007"
+	 numVertices: "648"
+	 numFaces: "324"
+	
+	
+	name: "Tree_3"
+	numMeshes: 1
+	 addr: "0000017831347840"
+	 name: "Plane.006"
+	 numVertices: "1446"
+	 numFaces: "1667"
+	
+	
+
+[11:06:21.394334] [Import] [info] (th=26756) File loaded successfully
+[11:06:21.394367] [Import] [info] (th=26756) Meshes count: 5
+[11:06:21.394399] [Import] [info] (th=26756) Materials count: 5
+[11:06:21.394704] [Import] [info] (th=26756) Textures count (imported): 0

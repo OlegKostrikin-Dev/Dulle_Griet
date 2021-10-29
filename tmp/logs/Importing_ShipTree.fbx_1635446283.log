@@ -1,0 +1,156 @@
+[21:38:03.215723] [Import] [info] (th=9764) Log level for 'Import' set to 'info'
+[21:38:03.217890] [Import] [info] (th=9764) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\ShipTree.fbx
+[21:38:03.391598] [Import] [info] (th=9764) Imported scene tree:
+name: "RootNode"
+
+	name: "Tree_3"
+	numMeshes: 1
+	 addr: "000002541EDE1050"
+	 name: "Plane.006"
+	 numVertices: "1499"
+	 numFaces: "1691"
+	
+	
+	name: "Bell"
+	numMeshes: 1
+	 addr: "000002541EDDF070"
+	 name: "Circle.005"
+	 numVertices: "616"
+	 numFaces: "848"
+	
+	
+	name: "Rope"
+	numMeshes: 1
+	 addr: "000002541EDE0B00"
+	 name: "Sphere.012"
+	 numVertices: "861"
+	 numFaces: "984"
+	
+	
+	name: "basket"
+	numMeshes: 3
+	 addr: "000002541EDDE5D0"
+	 name: "BezierCircle"
+	 numVertices: "1491"
+	 numFaces: "2352"
+	
+	 addr: "000002541EDE15A0"
+	 name: "BezierCircle"
+	 numVertices: "100"
+	 numFaces: "96"
+	
+	 addr: "000002541EDDDB30"
+	 name: "BezierCircle"
+	 numVertices: "99"
+	 numFaces: "120"
+	
+	
+	name: "BezierCurve.002"
+	numMeshes: 1
+	 addr: "000002541EDE1AF0"
+	 name: "BezierCurve.002"
+	 numVertices: "171"
+	 numFaces: "288"
+	
+	
+	name: "BezierCurve.003"
+	numMeshes: 1
+	 addr: "000002541EDE2590"
+	 name: "BezierCurve.004"
+	 numVertices: "173"
+	 numFaces: "288"
+	
+	
+	name: "BezierCurve.004"
+	numMeshes: 1
+	 addr: "000002541EDE3580"
+	 name: "BezierCurve.005"
+	 numVertices: "845"
+	 numFaces: "1440"
+	
+	
+	name: "BezierCurve.005"
+	numMeshes: 1
+	 addr: "000002541EDE4570"
+	 name: "BezierCurve.006"
+	 numVertices: "172"
+	 numFaces: "288"
+	
+	
+	name: "BezierCurve.006"
+	numMeshes: 1
+	 addr: "000002541EDE4AC0"
+	 name: "BezierCurve.007"
+	 numVertices: "169"
+	 numFaces: "288"
+	
+	
+	name: "BezierCurve.007"
+	numMeshes: 1
+	 addr: "000002541EDDD090"
+	 name: "BezierCurve.008"
+	 numVertices: "2366"
+	 numFaces: "4032"
+	
+	
+	name: "Cube.003"
+	numMeshes: 1
+	 addr: "000002541EDDD5E0"
+	 name: "Cube.014"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[21:38:03.391649] [Import] [info] (th=9764) File loaded successfully
+[21:38:03.391684] [Import] [info] (th=9764) Meshes count: 13
+[21:38:03.391718] [Import] [info] (th=9764) Materials count: 7
+[21:38:03.410576] [Import] [info] (th=9764) Textures count (imported): 9
+[21:51:42.450968] [Import] [info] (th=9764) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\GarbageAssets.fbx
+[21:51:42.500699] [Import] [info] (th=9764) Imported scene tree:
+name: "RootNode"
+
+	name: "Garbage1"
+	numMeshes: 2
+	 addr: "0000025630782B50"
+	 name: "Plane.159"
+	 numVertices: "964"
+	 numFaces: "594"
+	
+	 addr: "0000025630780B70"
+	 name: "Plane.159"
+	 numVertices: "352"
+	 numFaces: "168"
+	
+	
+	name: "Garbage2"
+	numMeshes: 2
+	 addr: "0000025630783B40"
+	 name: "Plane.167"
+	 numVertices: "452"
+	 numFaces: "274"
+	
+	 addr: "00000256307810C0"
+	 name: "Plane.167"
+	 numVertices: "76"
+	 numFaces: "36"
+	
+	
+	name: "Garbage3"
+	numMeshes: 2
+	 addr: "0000025630784090"
+	 name: "Cube.011"
+	 numVertices: "352"
+	 numFaces: "168"
+	
+	 addr: "0000025630781610"
+	 name: "Cube.011"
+	 numVertices: "1508"
+	 numFaces: "904"
+	
+	
+
+[21:51:42.500744] [Import] [info] (th=9764) File loaded successfully
+[21:51:42.500777] [Import] [info] (th=9764) Meshes count: 6
+[21:51:42.500810] [Import] [info] (th=9764) Materials count: 2
+[21:51:42.501283] [Import] [info] (th=9764) Textures count (imported): 4

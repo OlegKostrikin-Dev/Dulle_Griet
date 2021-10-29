@@ -1,0 +1,850 @@
+[19:20:53.033101] [Import] [info] (th=11012) Log level for 'Import' set to 'info'
+[19:20:53.033460] [Import] [info] (th=11012) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\House.fbx
+[19:20:53.163058] [Import] [info] (th=11012) Imported scene tree:
+name: "RootNode"
+
+	name: "HOUSE"
+	
+		name: "HOUSE|Plane.012_L_House_00.blend|Dupli|"
+		numMeshes: 2
+		 addr: "000001E4BFF13060"
+		 name: "Plane.014"
+		 numVertices: "135"
+		 numFaces: "111"
+		
+		 addr: "000001E4BFF19FF0"
+		 name: "Plane.014"
+		 numVertices: "259"
+		 numFaces: "169"
+		
+		
+		name: "HOUSE|Wooden_shed2.001_L_House_00.blend|Dupli|1"
+		numMeshes: 1
+		 addr: "000001E4BFF14050"
+		 name: "Cube.009"
+		 numVertices: "304"
+		 numFaces: "152"
+		
+		
+		name: "HOUSE|Plane.031_L_House_00.blend|Dupli|2"
+		numMeshes: 1
+		 addr: "000001E4BFF18560"
+		 name: "Plane.028"
+		 numVertices: "1982"
+		 numFaces: "990"
+		
+		
+		name: "HOUSE|Plane.032_L_House_00.blend|Dupli|3"
+		numMeshes: 1
+		 addr: "000001E4BFF19000"
+		 name: "Plane.031"
+		 numVertices: "98"
+		 numFaces: "58"
+		
+		
+		name: "HOUSE|Plane.001_L_House_00.blend|Dupli|4"
+		numMeshes: 1
+		 addr: "000001E4BFF16580"
+		 name: "Plane.001"
+		 numVertices: "288"
+		 numFaces: "144"
+		
+		
+		name: "HOUSE|Plane.002_L_House_00.blend|Dupli|5"
+		numMeshes: 1
+		 addr: "000001E4BFF1A540"
+		 name: "Plane.002"
+		 numVertices: "504"
+		 numFaces: "252"
+		
+		
+		name: "HOUSE|Plane.003_L_House_00.blend|Dupli|6"
+		numMeshes: 1
+		 addr: "000001E4BFF17020"
+		 name: "Plane.003"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.004_L_House_00.blend|Dupli|7"
+		numMeshes: 1
+		 addr: "000001E4BFF13B00"
+		 name: "Plane.004"
+		 numVertices: "160"
+		 numFaces: "84"
+		
+		
+		name: "HOUSE|Plane.005_L_House_00.blend|Dupli|8"
+		numMeshes: 1
+		 addr: "000001E4BFF15040"
+		 name: "Plane.005"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+		name: "HOUSE|Plane.006_L_House_00.blend|Dupli|9"
+		numMeshes: 1
+		 addr: "000001E4BFF18010"
+		 name: "Plane.006"
+		 numVertices: "34"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.007_L_House_00.blend|Dupli|10"
+		numMeshes: 1
+		 addr: "000001E4BFF15590"
+		 name: "Plane.007"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.008_L_House_00.blend|Dupli|11"
+		numMeshes: 1
+		 addr: "000001E4BFF16030"
+		 name: "Plane.008"
+		 numVertices: "192"
+		 numFaces: "100"
+		
+		
+		name: "HOUSE|Plane.009_L_House_00.blend|Dupli|12"
+		numMeshes: 1
+		 addr: "000001E4BFF17570"
+		 name: "Plane.010"
+		 numVertices: "634"
+		 numFaces: "316"
+		
+		
+		name: "HOUSE|Plane.010_L_House_00.blend|Dupli|13"
+		numMeshes: 1
+		 addr: "000001E365FB1020"
+		 name: "Plane.011"
+		 numVertices: "544"
+		 numFaces: "272"
+		
+		
+		name: "HOUSE|Wooden_Ladder_L_House_00.blend|Dupli|14"
+		numMeshes: 1
+		 addr: "000001E4DF4AF260"
+		 name: "Cube.001"
+		 numVertices: "176"
+		 numFaces: "88"
+		
+		
+		name: "HOUSE|Plane.013_L_House_00.blend|Dupli|15"
+		numMeshes: 1
+		 addr: "000001E4DF4B3770"
+		 name: "Plane.015"
+		 numVertices: "32"
+		 numFaces: "16"
+		
+		
+		name: "HOUSE|Plane.014_L_House_00.blend|Dupli|16"
+		numMeshes: 1
+		 addr: "000001E4DF4B0CF0"
+		 name: "Plane.016"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.015_L_House_00.blend|Dupli|17"
+		
+		name: "HOUSE|Plane_L_House_00.blend|Dupli|18"
+		numMeshes: 1
+		 addr: "000001E4DF4B5750"
+		 name: "Plane"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "HOUSE|Plane.011_L_House_00.blend|Dupli|19"
+		numMeshes: 1
+		 addr: "000001E4DF4B3CC0"
+		 name: "Plane.013"
+		 numVertices: "332"
+		 numFaces: "236"
+		
+		
+		name: "HOUSE|Plane.017_L_House_00.blend|Dupli|20"
+		numMeshes: 1
+		 addr: "000001E4DF4B5200"
+		 name: "Plane.025"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.018_L_House_00.blend|Dupli|21"
+		numMeshes: 1
+		 addr: "000001E4DF4AF7B0"
+		 name: "Plane.026"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "HOUSE|Plane.019_L_House_00.blend|Dupli|22"
+		numMeshes: 1
+		 addr: "000001E4DF4B1240"
+		 name: "Plane.027"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+
+[19:20:53.163112] [Import] [info] (th=11012) File loaded successfully
+[19:20:53.163147] [Import] [info] (th=11012) Meshes count: 23
+[19:20:53.163181] [Import] [info] (th=11012) Materials count: 5
+[19:20:53.189281] [Import] [info] (th=11012) Textures count (imported): 9
+[19:41:17.400542] [Import] [info] (th=11012) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\House.fbx
+[19:41:17.435937] [Import] [info] (th=11012) Imported scene tree:
+name: "RootNode"
+
+	name: "Walls"
+	numMeshes: 2
+	 addr: "000001E4DF4B4760"
+	 name: "Plane.014"
+	 numVertices: "729"
+	 numFaces: "411"
+	
+	 addr: "000001E4DF4AFD00"
+	 name: "Plane.014"
+	 numVertices: "259"
+	 numFaces: "169"
+	
+	
+		name: "Wooden_shed2.001"
+		numMeshes: 1
+		 addr: "000001E4DF4B4CB0"
+		 name: "Cube.009"
+		 numVertices: "304"
+		 numFaces: "152"
+		
+		
+		name: "Plane.031"
+		numMeshes: 1
+		 addr: "000001E4DF4B0250"
+		 name: "Plane.028"
+		 numVertices: "2616"
+		 numFaces: "1306"
+		
+		
+		name: "Plane.003"
+		numMeshes: 1
+		 addr: "000001E4DF4B5CA0"
+		 name: "Plane.003"
+		 numVertices: "1562"
+		 numFaces: "798"
+		
+		
+		name: "Plane.010"
+		numMeshes: 1
+		 addr: "000001E4DF4B07A0"
+		 name: "Plane.011"
+		 numVertices: "544"
+		 numFaces: "272"
+		
+		
+		name: "Plane.013"
+		numMeshes: 1
+		 addr: "000001E4DF4B1CE0"
+		 name: "Plane.015"
+		 numVertices: "32"
+		 numFaces: "16"
+		
+		
+		name: "Plane.015"
+		
+		name: "Plane.018"
+		numMeshes: 1
+		 addr: "000001E4DF4B61F0"
+		 name: "Plane.026"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "Plane.019"
+		numMeshes: 1
+		 addr: "000001E4DF4B6740"
+		 name: "Plane.027"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+	name: "Wooden_Ladder"
+	numMeshes: 1
+	 addr: "000001E4DF4B1790"
+	 name: "Cube.001"
+	 numVertices: "176"
+	 numFaces: "88"
+	
+	
+	name: "Floor"
+	numMeshes: 1
+	 addr: "000001E4DF4B2230"
+	 name: "Plane"
+	 numVertices: "12"
+	 numFaces: "6"
+	
+	
+	name: "2ndStageFloor"
+	numMeshes: 1
+	 addr: "000001E4DF4B2780"
+	 name: "Plane.013"
+	 numVertices: "332"
+	 numFaces: "236"
+	
+	
+	name: "Wooden_shed2.003"
+	numMeshes: 1
+	 addr: "000001E4DF4B2CD0"
+	 name: "Cube.003"
+	 numVertices: "176"
+	 numFaces: "88"
+	
+	
+	name: "Barrel_Solid.001"
+	numMeshes: 1
+	 addr: "000001E4DF4B3220"
+	 name: "Cylinder.001"
+	 numVertices: "987"
+	 numFaces: "952"
+	
+	
+	name: "Table"
+	numMeshes: 2
+	 addr: "000001E4BFF145A0"
+	 name: "Plane.019"
+	 numVertices: "348"
+	 numFaces: "172"
+	
+	 addr: "000001E4BFF17AC0"
+	 name: "Plane.019"
+	 numVertices: "88"
+	 numFaces: "44"
+	
+	
+	name: "Bench1"
+	numMeshes: 1
+	 addr: "000001E4BFF14AF0"
+	 name: "Plane.021"
+	 numVertices: "336"
+	 numFaces: "180"
+	
+	
+	name: "Box_SOLID.001"
+	numMeshes: 1
+	 addr: "000001E365FB0030"
+	 name: "Cube.004"
+	 numVertices: "428"
+	 numFaces: "212"
+	
+	
+	name: "Bag"
+	numMeshes: 1
+	 addr: "000001E365FB6A70"
+	 name: "Cube.006"
+	 numVertices: "112"
+	 numFaces: "116"
+	
+	
+	name: "Bag.001"
+	numMeshes: 1
+	 addr: "000001E48B12D0C0"
+	 name: "Cube.008"
+	 numVertices: "112"
+	 numFaces: "116"
+	
+	
+	name: "Bag.002"
+	numMeshes: 1
+	 addr: "000001E48B128660"
+	 name: "Cube.010"
+	 numVertices: "111"
+	 numFaces: "116"
+	
+	
+	name: "Bag.003"
+	numMeshes: 1
+	 addr: "000001E48B12B630"
+	 name: "Cube.011"
+	 numVertices: "112"
+	 numFaces: "116"
+	
+	
+	name: "Bag.007"
+	numMeshes: 1
+	 addr: "000001E48B127BC0"
+	 name: "Cube.016"
+	 numVertices: "448"
+	 numFaces: "464"
+	
+	
+	name: "Bag.008"
+	numMeshes: 1
+	 addr: "000001E48B129100"
+	 name: "Cube.017"
+	 numVertices: "112"
+	 numFaces: "116"
+	
+	
+	name: "Rope"
+	numMeshes: 2
+	 addr: "000001E48B12A640"
+	 name: "Sphere.001"
+	 numVertices: "752"
+	 numFaces: "984"
+	
+	 addr: "000001E48B12C620"
+	 name: "Sphere.001"
+	 numVertices: "12"
+	 numFaces: "8"
+	
+	
+		name: "Cauldron.001"
+		numMeshes: 1
+		 addr: "000001E48B12D610"
+		 name: "Circle.005"
+		 numVertices: "834"
+		 numFaces: "1164"
+		
+		
+	name: "Candler"
+	numMeshes: 1
+	 addr: "000001E48B12DB60"
+	 name: "Circle.003"
+	 numVertices: "1926"
+	 numFaces: "1925"
+	
+	
+		name: "Candler_flame"
+		numMeshes: 1
+		 addr: "000001E48B126130"
+		 name: "Cube"
+		 numVertices: "148"
+		 numFaces: "88"
+		
+		
+	name: "Jug1"
+	numMeshes: 1
+	 addr: "000001E48B127670"
+	 name: "Sphere.011"
+	 numVertices: "948"
+	 numFaces: "1392"
+	
+	
+	name: "Jug2"
+	numMeshes: 1
+	 addr: "000001E48B129650"
+	 name: "Cylinder.005"
+	 numVertices: "741"
+	 numFaces: "1108"
+	
+	
+	name: "Broom"
+	numMeshes: 1
+	 addr: "000001E48B12AB90"
+	 name: "Cube.007"
+	 numVertices: "52"
+	 numFaces: "52"
+	
+	
+	name: "Axe.001"
+	numMeshes: 2
+	 addr: "000001E48B12B0E0"
+	 name: "Cylinder.003"
+	 numVertices: "102"
+	 numFaces: "60"
+	
+	 addr: "000001E48B127120"
+	 name: "Cylinder.003"
+	 numVertices: "56"
+	 numFaces: "56"
+	
+	
+
+[19:41:17.436064] [Import] [info] (th=11012) File loaded successfully
+[19:41:17.436105] [Import] [info] (th=11012) Meshes count: 34
+[19:41:17.436145] [Import] [info] (th=11012) Materials count: 16
+[19:41:17.439050] [Import] [info] (th=11012) Textures count (imported): 23
+[19:49:28.225002] [Import] [info] (th=11012) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\candler.fbx
+[19:49:28.230825] [Import] [info] (th=11012) Imported scene tree:
+name: "RootNode"
+
+	name: "Candler"
+	numMeshes: 1
+	 addr: "000001E48B129BA0"
+	 name: "Circle.003"
+	 numVertices: "1946"
+	 numFaces: "1935"
+	
+	
+
+[19:49:28.230947] [Import] [info] (th=11012) File loaded successfully
+[19:49:28.230984] [Import] [info] (th=11012) Meshes count: 1
+[19:49:28.231019] [Import] [info] (th=11012) Materials count: 1
+[19:49:28.240172] [Import] [warning] (th=11012) It seems that scene structure is different
+[20:12:41.441751] [Import] [info] (th=11012) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\EggCollection.fbx
+[20:12:41.567400] [Import] [info] (th=11012) Imported scene tree:
+name: "RootNode"
+
+	name: "Cylinder.009"
+	numMeshes: 1
+	 addr: "000001E4BA9B2B20"
+	 name: "Cylinder.009"
+	 numVertices: "2048"
+	 numFaces: "1024"
+	
+	
+		name: "Foliage"
+		numMeshes: 2
+		 addr: "000001E4BA9B8020"
+		 name: "Plane.014"
+		 numVertices: "10430"
+		 numFaces: "4528"
+		
+		 addr: "000001E4BA9B5050"
+		 name: "Plane.014"
+		 numVertices: "5856"
+		 numFaces: "2148"
+		
+		
+		name: "Cage_cap"
+		numMeshes: 1
+		 addr: "000001E4BA9B9560"
+		 name: "Circle.002"
+		 numVertices: "326"
+		 numFaces: "512"
+		
+		
+	name: "Deer"
+	numMeshes: 1
+	 addr: "000001E4BA9B3070"
+	 name: "Deer.002"
+	 numVertices: "2816"
+	 numFaces: "3274"
+	
+	
+	name: "DeerArmature"
+	
+		name: "root"
+		
+			name: "Spine1"
+			
+				name: "Spine2"
+				
+					name: "Spine3"
+					
+						name: "Neck1"
+						
+							name: "Neck2"
+							
+								name: "head"
+								
+						name: "shoulder_L"
+						
+							name: "leg_fron_up_L"
+							
+								name: "leg_fron_bot_L"
+								
+									name: "leg_front_hoof_L"
+									
+						name: "shoulder_R"
+						
+							name: "leg_fron_up_R"
+							
+								name: "leg_fron_bot_R"
+								
+									name: "leg_front_hoof_R"
+									
+				name: "leg_rear_1_L"
+				
+					name: "leg_rear_2_L"
+					
+						name: "leg_rear_3_L"
+						
+							name: "leg_rear_hoof_L"
+							
+				name: "tail"
+				
+				name: "leg_rear_1_R"
+				
+					name: "leg_rear_2_R"
+					
+						name: "leg_rear_3_R"
+						
+							name: "leg_rear_hoof_R"
+							
+			name: "IK_front_Knee_L"
+			
+			name: "IK_front_Knee_R"
+			
+	name: "Spider"
+	numMeshes: 1
+	 addr: "000001E4BA9B7AD0"
+	 name: "Cube.011"
+	 numVertices: "7406"
+	 numFaces: "6880"
+	
+	
+	name: "SpiderArmature"
+	
+		name: "Root"
+		
+			name: "body"
+			
+				name: "Stummer"
+				
+				name: "Leg1_1_L"
+				
+					name: "Leg1_2_L"
+					
+						name: "Leg1_3_L"
+						
+				name: "Leg2_1_L"
+				
+					name: "Leg2_2_L"
+					
+						name: "Leg2_3_L"
+						
+				name: "Leg3_1_L"
+				
+					name: "Leg3_2_L"
+					
+						name: "Leg3_3_L"
+						
+				name: "Leg3_1_L.001"
+				
+					name: "Leg3_1_L.002"
+					
+						name: "Leg3_1_L.003"
+						
+				name: "Leg1_1_R"
+				
+					name: "Leg1_2_R"
+					
+						name: "Leg1_3_R"
+						
+				name: "Leg2_1_R"
+				
+					name: "Leg2_2_R"
+					
+						name: "Leg2_3_R"
+						
+				name: "Leg3_1_R"
+				
+					name: "Leg3_2_R"
+					
+						name: "Leg3_3_R"
+						
+				name: "Leg3_1_R.001"
+				
+					name: "Leg3_1_R.002"
+					
+						name: "Leg3_1_R.003"
+						
+			name: "IK_leg_3_L"
+			
+			name: "IK_leg_3_R"
+			
+	name: "Plane.032"
+	numMeshes: 1
+	 addr: "000001E4BA9B25D0"
+	 name: "Plane.055"
+	 numVertices: "7314"
+	 numFaces: "6764"
+	
+	
+	name: "Sphere.004"
+	numMeshes: 2
+	 addr: "000001E4BA9BA550"
+	 name: "Sphere.004"
+	 numVertices: "570"
+	 numFaces: "673"
+	
+	 addr: "000001E4BA9BAAA0"
+	 name: "Sphere.004"
+	 numVertices: "442"
+	 numFaces: "599"
+	
+	
+	name: "Sphere.005"
+	numMeshes: 2
+	 addr: "000001E4BA9B6AE0"
+	 name: "Sphere.005"
+	 numVertices: "735"
+	 numFaces: "708"
+	
+	 addr: "000001E4BA9B45B0"
+	 name: "Sphere.005"
+	 numVertices: "333"
+	 numFaces: "480"
+	
+	
+	name: "Arfa"
+	numMeshes: 2
+	 addr: "000001E4BA9BAFF0"
+	 name: "Cube.021"
+	 numVertices: "714"
+	 numFaces: "660"
+	
+	 addr: "000001E4BA9B35C0"
+	 name: "Cube.021"
+	 numVertices: "424"
+	 numFaces: "236"
+	
+	
+	name: "Plane.063"
+	numMeshes: 1
+	 addr: "000001E4BA9BB540"
+	 name: "Plane.074"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.017"
+	numMeshes: 1
+	 addr: "000001E4BA9B5AF0"
+	 name: "Plane.019"
+	 numVertices: "104"
+	 numFaces: "149"
+	
+	
+	name: "GP_00.008"
+	numMeshes: 1
+	 addr: "000001E4BA9B3B10"
+	 name: "Plane.089"
+	 numVertices: "175"
+	 numFaces: "258"
+	
+	
+	name: "Rock_mid2.004"
+	numMeshes: 1
+	 addr: "000001E4BA9B8570"
+	 name: "Plane.076"
+	 numVertices: "386"
+	 numFaces: "400"
+	
+	
+	name: "Rock_hi2.008"
+	numMeshes: 1
+	 addr: "000001E4BA9BBA90"
+	 name: "Plane.079"
+	 numVertices: "395"
+	 numFaces: "398"
+	
+	
+	name: "Single_rock2.002"
+	numMeshes: 1
+	 addr: "000001E4BA9B6040"
+	 name: "Plane.085"
+	 numVertices: "842"
+	 numFaces: "923"
+	
+	
+	name: "Rock_low2.001"
+	numMeshes: 1
+	 addr: "000001E4BA9BBFE0"
+	 name: "Plane.081"
+	 numVertices: "494"
+	 numFaces: "813"
+	
+	
+	name: "GP_00.013"
+	numMeshes: 1
+	 addr: "000001E4BA9B3B10"
+	 name: "Plane.089"
+	 numVertices: "175"
+	 numFaces: "258"
+	
+	
+	name: "GP_00.014"
+	numMeshes: 1
+	 addr: "000001E4BA9B3B10"
+	 name: "Plane.089"
+	 numVertices: "175"
+	 numFaces: "258"
+	
+	
+	name: "GP_00.015"
+	numMeshes: 1
+	 addr: "000001E4BA9B3B10"
+	 name: "Plane.089"
+	 numVertices: "175"
+	 numFaces: "258"
+	
+	
+	name: "GP_02.007"
+	numMeshes: 1
+	 addr: "000001E4BA9BC530"
+	 name: "Plane.087"
+	 numVertices: "294"
+	 numFaces: "472"
+	
+	
+	name: "GP_02.008"
+	numMeshes: 1
+	 addr: "000001E4BA9BC530"
+	 name: "Plane.087"
+	 numVertices: "294"
+	 numFaces: "472"
+	
+	
+	name: "Single_rock1.007"
+	numMeshes: 1
+	 addr: "000001E4BA9B8AC0"
+	 name: "Plane.080"
+	 numVertices: "1117"
+	 numFaces: "921"
+	
+	
+	name: "GP_00.016"
+	numMeshes: 1
+	 addr: "000001E4BA9B3B10"
+	 name: "Plane.089"
+	 numVertices: "175"
+	 numFaces: "258"
+	
+	
+	name: "GP_02.009"
+	numMeshes: 1
+	 addr: "000001E4BA9BC530"
+	 name: "Plane.087"
+	 numVertices: "294"
+	 numFaces: "472"
+	
+	
+	name: "Single_rock2.004"
+	numMeshes: 1
+	 addr: "000001E4BA9B6040"
+	 name: "Plane.085"
+	 numVertices: "842"
+	 numFaces: "923"
+	
+	
+	name: "Single_rock2.005"
+	numMeshes: 1
+	 addr: "000001E4BA9B6040"
+	 name: "Plane.085"
+	 numVertices: "842"
+	 numFaces: "923"
+	
+	
+	name: "Single_rock2.007"
+	numMeshes: 1
+	 addr: "000001E4BA9B6040"
+	 name: "Plane.085"
+	 numVertices: "842"
+	 numFaces: "923"
+	
+	
+	name: "Single_rock1.008"
+	numMeshes: 1
+	 addr: "000001E4BA9B8AC0"
+	 name: "Plane.080"
+	 numVertices: "1117"
+	 numFaces: "921"
+	
+	
+
+[20:12:41.567454] [Import] [info] (th=11012) File loaded successfully
+[20:12:41.567490] [Import] [info] (th=11012) Meshes count: 22
+[20:12:41.567525] [Import] [info] (th=11012) Materials count: 20
+[20:12:41.572071] [Import] [info] (th=11012) Textures count (imported): 23

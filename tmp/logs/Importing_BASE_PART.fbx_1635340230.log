@@ -1,0 +1,5259 @@
+[16:10:30.699171] [Import] [info] (th=14280) Log level for 'Import' set to 'info'
+[16:10:30.719381] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\BASE_PART.fbx
+[16:10:30.912650] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002A5161E5E60"
+	 name: "Plane.001"
+	 numVertices: "13"
+	 numFaces: "12"
+	
+	
+	name: "Plane.002"
+	numMeshes: 1
+	 addr: "000002A5161E3930"
+	 name: "Plane.002"
+	 numVertices: "91"
+	 numFaces: "129"
+	
+	
+	name: "Plane.003"
+	numMeshes: 2
+	 addr: "000002A5161E8E30"
+	 name: "Plane.159"
+	 numVertices: "480"
+	 numFaces: "364"
+	
+	 addr: "000002A5161E2940"
+	 name: "Plane.159"
+	 numVertices: "1382"
+	 numFaces: "1128"
+	
+	
+		name: "Circle"
+		numMeshes: 1
+		 addr: "000002A5161E1400"
+		 name: "Circle"
+		 numVertices: "296"
+		 numFaces: "283"
+		
+		
+	name: "Plane.004"
+	numMeshes: 1
+	 addr: "000002A5161E3E80"
+	 name: "Plane.004"
+	 numVertices: "267"
+	 numFaces: "196"
+	
+	
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "000002A5161E8390"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.010"
+	numMeshes: 1
+	 addr: "000002A5161E88E0"
+	 name: "Plane.010"
+	 numVertices: "39"
+	 numFaces: "23"
+	
+	
+	name: "Plane.009"
+	numMeshes: 1
+	 addr: "000002A5161E2E90"
+	 name: "Plane.012"
+	 numVertices: "333"
+	 numFaces: "329"
+	
+	
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "000002A5161E4920"
+	 name: "Cylinder"
+	 numVertices: "360"
+	 numFaces: "320"
+	
+	
+	name: "Plane.011"
+	numMeshes: 1
+	 addr: "000002A5161E8390"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.027"
+	numMeshes: 1
+	 addr: "000002A5161E1950"
+	 name: "Plane.011"
+	 numVertices: "56"
+	 numFaces: "40"
+	
+	
+	name: "Plane.025"
+	numMeshes: 2
+	 addr: "000002A5161E1EA0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5161E33E0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Head_Round_wall"
+	numMeshes: 2
+	 addr: "000002A515BEE5F0"
+	 name: "Plane.160"
+	 numVertices: "196"
+	 numFaces: "144"
+	
+	 addr: "000002A515BF15C0"
+	 name: "Plane.160"
+	 numVertices: "771"
+	 numFaces: "510"
+	
+	
+	name: "Cylinder.001"
+	numMeshes: 2
+	 addr: "000002A515BEEB40"
+	 name: "Cylinder.001"
+	 numVertices: "2286"
+	 numFaces: "2038"
+	
+	 addr: "000002A515BF0B20"
+	 name: "Cylinder.001"
+	 numVertices: "860"
+	 numFaces: "946"
+	
+	
+	name: "Wall_01"
+	numMeshes: 2
+	 addr: "000002A515BF3050"
+	 name: "Plane.036"
+	 numVertices: "72"
+	 numFaces: "48"
+	
+	 addr: "000002A515BEF090"
+	 name: "Plane.036"
+	 numVertices: "2110"
+	 numFaces: "1337"
+	
+	
+	name: "Plane.007"
+	numMeshes: 1
+	 addr: "000002A5161E8390"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.006"
+	numMeshes: 1
+	 addr: "000002A5161E8390"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "000002A515BEF5E0"
+	 name: "Plane.013"
+	 numVertices: "117"
+	 numFaces: "140"
+	
+	
+	name: "Cylinder.004"
+	numMeshes: 1
+	 addr: "000002A515BEFB30"
+	 name: "Cylinder.002"
+	 numVertices: "134"
+	 numFaces: "100"
+	
+	
+	name: "Cylinder.005"
+	numMeshes: 1
+	 addr: "000002A515BF2B00"
+	 name: "Cylinder.005"
+	 numVertices: "272"
+	 numFaces: "268"
+	
+	
+	name: "Cylinder.006"
+	numMeshes: 1
+	 addr: "000002A515BF1070"
+	 name: "Cylinder.006"
+	 numVertices: "225"
+	 numFaces: "176"
+	
+	
+	name: "Plane.018"
+	numMeshes: 1
+	 addr: "000002A515BF4040"
+	 name: "Plane.020"
+	 numVertices: "68"
+	 numFaces: "80"
+	
+	
+	name: "Plane.020"
+	numMeshes: 1
+	 addr: "000002A515BF1B10"
+	 name: "Plane.021"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.021"
+	numMeshes: 1
+	 addr: "000002A515BF0080"
+	 name: "Plane.022"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.022"
+	numMeshes: 1
+	 addr: "000002A515BF25B0"
+	 name: "Plane.023"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.023"
+	numMeshes: 1
+	 addr: "000002A515BF05D0"
+	 name: "Plane.024"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.029"
+	numMeshes: 1
+	 addr: "000002A515BF2060"
+	 name: "Plane.027"
+	 numVertices: "82"
+	 numFaces: "130"
+	
+	
+	name: "Plane.033"
+	numMeshes: 1
+	 addr: "000002A515BF35A0"
+	 name: "Plane.032"
+	 numVertices: "8"
+	 numFaces: "6"
+	
+	
+	name: "Plane.034"
+	numMeshes: 1
+	 addr: "000002A515BF3AF0"
+	 name: "Plane.033"
+	 numVertices: "184"
+	 numFaces: "129"
+	
+	
+	name: "Plane.019"
+	numMeshes: 1
+	 addr: "000002A515BF4590"
+	 name: "Plane.039"
+	 numVertices: "25"
+	 numFaces: "32"
+	
+	
+	name: "Plane.038"
+	numMeshes: 1
+	 addr: "000002A515BF4AE0"
+	 name: "Plane.040"
+	 numVertices: "91"
+	 numFaces: "144"
+	
+	
+	name: "Plane.040"
+	numMeshes: 1
+	 addr: "000002A515BF5030"
+	 name: "Plane.043"
+	 numVertices: "34"
+	 numFaces: "20"
+	
+	
+	name: "Wall_02"
+	numMeshes: 2
+	 addr: "000002A515BF5580"
+	 name: "Plane.048"
+	 numVertices: "868"
+	 numFaces: "679"
+	
+	 addr: "000002A515BF5AD0"
+	 name: "Plane.048"
+	 numVertices: "59"
+	 numFaces: "39"
+	
+	
+	name: "Wall_00"
+	numMeshes: 2
+	 addr: "000002A5161E4E70"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A52F4F1850"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_03"
+	numMeshes: 2
+	 addr: "000002A52F4EBE00"
+	 name: "Plane.050"
+	 numVertices: "282"
+	 numFaces: "116"
+	
+	 addr: "000002A52F4EB360"
+	 name: "Plane.050"
+	 numVertices: "659"
+	 numFaces: "289"
+	
+	
+	name: "Plane.039"
+	numMeshes: 2
+	 addr: "000002A52F4F1300"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A52F4EF320"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Plane.012"
+	numMeshes: 1
+	 addr: "000002A52F4F22F0"
+	 name: "Plane.028"
+	 numVertices: "140"
+	 numFaces: "76"
+	
+	
+	name: "Wall_03.001"
+	numMeshes: 2
+	 addr: "000002A52F4EFDC0"
+	 name: "Plane.052"
+	 numVertices: "267"
+	 numFaces: "116"
+	
+	 addr: "000002A52F4F2840"
+	 name: "Plane.052"
+	 numVertices: "628"
+	 numFaces: "289"
+	
+	
+	name: "Cylinder.008"
+	numMeshes: 2
+	 addr: "000002A52F4F2D90"
+	 name: "Cylinder.007"
+	 numVertices: "648"
+	 numFaces: "576"
+	
+	 addr: "000002A52F4EC350"
+	 name: "Cylinder.007"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Plane.028"
+	numMeshes: 1
+	 addr: "000002A52F4EDDE0"
+	 name: "Plane.054"
+	 numVertices: "201"
+	 numFaces: "112"
+	
+	
+	name: "Wall_00.001"
+	numMeshes: 2
+	 addr: "000002A52F4EE880"
+	 name: "Plane.060"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A52F4F0310"
+	 name: "Plane.060"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_01.002"
+	numMeshes: 2
+	 addr: "000002A52F4F32E0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A52F4F0DB0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.003"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.026"
+	numMeshes: 1
+	 addr: "000002A52F4EE330"
+	 name: "Plane.016"
+	 numVertices: "49"
+	 numFaces: "70"
+	
+	
+	name: "Wall_01.001"
+	numMeshes: 2
+	 addr: "000002A52F4F32E0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A52F4F0DB0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.004"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.016"
+	numMeshes: 2
+	 addr: "000002A52F4F1300"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A52F4EF320"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Wall_01.005"
+	numMeshes: 2
+	 addr: "000002A52F4F32E0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A52F4F0DB0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.006"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.036"
+	numMeshes: 1
+	 addr: "000002A52F4F42D0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.043"
+	numMeshes: 1
+	 addr: "000002A52F4F42D0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.046"
+	numMeshes: 1
+	 addr: "000002A52F4F42D0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.047"
+	numMeshes: 1
+	 addr: "000002A52F4EC8A0"
+	 name: "Plane.057"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.048"
+	numMeshes: 1
+	 addr: "000002A52F4F4820"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.049"
+	numMeshes: 1
+	 addr: "000002A52F4ED340"
+	 name: "Plane.059"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.050"
+	numMeshes: 1
+	 addr: "000002A52F4F4820"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.052"
+	numMeshes: 1
+	 addr: "000002A52F4ECDF0"
+	 name: "Plane.066"
+	 numVertices: "41"
+	 numFaces: "36"
+	
+	
+	name: "Plane.053"
+	numMeshes: 1
+	 addr: "000002A52F4F4D70"
+	 name: "Plane.029"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Plane.054"
+	numMeshes: 1
+	 addr: "000002A52F4F97D0"
+	 name: "Plane.062"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Plane.056"
+	numMeshes: 1
+	 addr: "000002A52F4F4820"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.057"
+	numMeshes: 1
+	 addr: "000002A52F4F9D20"
+	 name: "Plane.067"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.060"
+	numMeshes: 1
+	 addr: "000002A52F4F6D50"
+	 name: "Plane.071"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.061"
+	numMeshes: 1
+	 addr: "000002A52F4F52C0"
+	 name: "Plane.072"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.062"
+	numMeshes: 1
+	 addr: "000002A52F4F5810"
+	 name: "Plane.073"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.063"
+	numMeshes: 1
+	 addr: "000002A52F4F5D60"
+	 name: "Plane.074"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Wall_01.007"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.008"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_00.002"
+	numMeshes: 2
+	 addr: "000002A5161E4E70"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A52F4F1850"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Plane.059"
+	numMeshes: 2
+	 addr: "000002A5161E1EA0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5161E33E0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Plane.064"
+	numMeshes: 2
+	 addr: "000002A5161E1EA0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5161E33E0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.009"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.065"
+	numMeshes: 2
+	 addr: "000002A5161E1EA0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5161E33E0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.010"
+	numMeshes: 2
+	 addr: "000002A52F4F32E0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A52F4F0DB0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.011"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.012"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.013"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.014"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.015"
+	numMeshes: 2
+	 addr: "000002A52F4F3D80"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A52F4EEDD0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.016"
+	numMeshes: 2
+	 addr: "000002A52F4F32E0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A52F4F0DB0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.017"
+	numMeshes: 2
+	 addr: "000002A52F4F32E0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A52F4F0DB0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Plane.076"
+	numMeshes: 2
+	 addr: "000002A52F4F62B0"
+	 name: "Plane.158"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A52F4F87E0"
+	 name: "Plane.158"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "BACK_waterPlane"
+	numMeshes: 1
+	 addr: "000002A52F4F72A0"
+	 name: "Plane.091"
+	 numVertices: "106"
+	 numFaces: "157"
+	
+	
+	name: "Bridge.002"
+	numMeshes: 2
+	 addr: "000002A52F4F8290"
+	 name: "Plane.047"
+	 numVertices: "490"
+	 numFaces: "410"
+	
+	 addr: "000002A52F4F77F0"
+	 name: "Plane.047"
+	 numVertices: "345"
+	 numFaces: "264"
+	
+	
+	name: "Plane.070"
+	numMeshes: 1
+	 addr: "000002A52F4F9280"
+	 name: "Plane.152"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.069"
+	numMeshes: 1
+	 addr: "000002A52F4FAD10"
+	 name: "Plane.151"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.068"
+	numMeshes: 1
+	 addr: "000002A52F4F7D40"
+	 name: "Plane.144"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.067"
+	numMeshes: 1
+	 addr: "000002A52F4F8D30"
+	 name: "Plane.143"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.066"
+	numMeshes: 1
+	 addr: "000002A52F4FA270"
+	 name: "Plane.142"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.071"
+	numMeshes: 1
+	 addr: "000002A52F4FA7C0"
+	 name: "Plane.153"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.072"
+	numMeshes: 1
+	 addr: "000002A4006FF650"
+	 name: "Plane.154"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.073"
+	numMeshes: 1
+	 addr: "000002A4007000F0"
+	 name: "Plane.155"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.074"
+	numMeshes: 1
+	 addr: "000002A400700B90"
+	 name: "Plane.156"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.075"
+	numMeshes: 1
+	 addr: "000002A4006FFBA0"
+	 name: "Plane.157"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "HOUSE"
+	
+		name: "HOUSE|Plane.012_L_House_00.blend|Dupli|"
+		numMeshes: 2
+		 addr: "000002A400703B60"
+		 name: "Plane.014"
+		 numVertices: "135"
+		 numFaces: "111"
+		
+		 addr: "000002A400700640"
+		 name: "Plane.014"
+		 numVertices: "259"
+		 numFaces: "169"
+		
+		
+		name: "HOUSE|Wooden_shed2.001_L_House_00.blend|Dupli|1"
+		numMeshes: 1
+		 addr: "000002A4006FE660"
+		 name: "Cube.009"
+		 numVertices: "304"
+		 numFaces: "152"
+		
+		
+		name: "HOUSE|Plane.031_L_House_00.blend|Dupli|2"
+		numMeshes: 1
+		 addr: "000002A400701630"
+		 name: "Plane.028"
+		 numVertices: "1982"
+		 numFaces: "990"
+		
+		
+		name: "HOUSE|Plane.032_L_House_00.blend|Dupli|3"
+		numMeshes: 1
+		 addr: "000002A400701B80"
+		 name: "Plane.031"
+		 numVertices: "98"
+		 numFaces: "58"
+		
+		
+		name: "HOUSE|Plane.001_L_House_00.blend|Dupli|4"
+		numMeshes: 1
+		 addr: "000002A4006FCBD0"
+		 name: "Plane.001"
+		 numVertices: "288"
+		 numFaces: "144"
+		
+		
+		name: "HOUSE|Plane.002_L_House_00.blend|Dupli|5"
+		numMeshes: 1
+		 addr: "000002A4007010E0"
+		 name: "Plane.002"
+		 numVertices: "504"
+		 numFaces: "252"
+		
+		
+		name: "HOUSE|Plane.003_L_House_00.blend|Dupli|6"
+		numMeshes: 1
+		 addr: "000002A4006FEBB0"
+		 name: "Plane.003"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.004_L_House_00.blend|Dupli|7"
+		numMeshes: 1
+		 addr: "000002A4006FF100"
+		 name: "Plane.004"
+		 numVertices: "160"
+		 numFaces: "84"
+		
+		
+		name: "HOUSE|Plane.005_L_House_00.blend|Dupli|8"
+		numMeshes: 1
+		 addr: "000002A400702620"
+		 name: "Plane.005"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+		name: "HOUSE|Plane.006_L_House_00.blend|Dupli|9"
+		numMeshes: 1
+		 addr: "000002A400702B70"
+		 name: "Plane.006"
+		 numVertices: "34"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.007_L_House_00.blend|Dupli|10"
+		numMeshes: 1
+		 addr: "000002A4006FD120"
+		 name: "Plane.007"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.008_L_House_00.blend|Dupli|11"
+		numMeshes: 1
+		 addr: "000002A400704600"
+		 name: "Plane.008"
+		 numVertices: "192"
+		 numFaces: "100"
+		
+		
+		name: "HOUSE|Plane.009_L_House_00.blend|Dupli|12"
+		numMeshes: 1
+		 addr: "000002A4007030C0"
+		 name: "Plane.010"
+		 numVertices: "634"
+		 numFaces: "316"
+		
+		
+		name: "HOUSE|Plane.010_L_House_00.blend|Dupli|13"
+		numMeshes: 1
+		 addr: "000002A4007050A0"
+		 name: "Plane.011"
+		 numVertices: "544"
+		 numFaces: "272"
+		
+		
+		name: "HOUSE|Wooden_Ladder_L_House_00.blend|Dupli|14"
+		numMeshes: 1
+		 addr: "000002A4007040B0"
+		 name: "Cube.001"
+		 numVertices: "176"
+		 numFaces: "88"
+		
+		
+		name: "HOUSE|Plane.013_L_House_00.blend|Dupli|15"
+		numMeshes: 1
+		 addr: "000002A400703610"
+		 name: "Plane.015"
+		 numVertices: "32"
+		 numFaces: "16"
+		
+		
+		name: "HOUSE|Plane.014_L_House_00.blend|Dupli|16"
+		numMeshes: 1
+		 addr: "000002A4006FD670"
+		 name: "Plane.016"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.015_L_House_00.blend|Dupli|17"
+		
+		name: "HOUSE|Plane_L_House_00.blend|Dupli|18"
+		numMeshes: 1
+		 addr: "000002A400704B50"
+		 name: "Plane"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "HOUSE|Plane.011_L_House_00.blend|Dupli|19"
+		numMeshes: 1
+		 addr: "000002A4007055F0"
+		 name: "Plane.013"
+		 numVertices: "332"
+		 numFaces: "236"
+		
+		
+		name: "HOUSE|Plane.017_L_House_00.blend|Dupli|20"
+		numMeshes: 1
+		 addr: "000002A4006FDBC0"
+		 name: "Plane.025"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.018_L_House_00.blend|Dupli|21"
+		numMeshes: 1
+		 addr: "000002A400705B40"
+		 name: "Plane.026"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "HOUSE|Plane.019_L_House_00.blend|Dupli|22"
+		numMeshes: 1
+		 addr: "000002A4006FE110"
+		 name: "Plane.027"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+
+[16:10:30.912708] [Import] [info] (th=14280) File loaded successfully
+[16:10:30.912745] [Import] [info] (th=14280) Meshes count: 105
+[16:10:30.912780] [Import] [info] (th=14280) Materials count: 19
+[16:10:30.947033] [Import] [warning] (th=14280) Texture not found: E:\!SubstanceDesigner\DownLoaded\Ground\gravely_mountain_path_Normal_Gray.png
+[16:10:30.948905] [Import] [info] (th=14280) Textures count (imported): 20
+[16:57:03.986507] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\BASE_PART.fbx
+[16:57:04.075331] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002A4007075D0"
+	 name: "Plane.001"
+	 numVertices: "13"
+	 numFaces: "12"
+	
+	
+	name: "Plane.002"
+	numMeshes: 1
+	 addr: "000002A400707B20"
+	 name: "Plane.002"
+	 numVertices: "34"
+	 numFaces: "40"
+	
+	
+	name: "Plane.003"
+	numMeshes: 2
+	 addr: "000002A400708070"
+	 name: "Plane.167"
+	 numVertices: "480"
+	 numFaces: "364"
+	
+	 addr: "000002A400708B10"
+	 name: "Plane.167"
+	 numVertices: "1382"
+	 numFaces: "1128"
+	
+	
+		name: "Circle"
+		numMeshes: 1
+		 addr: "000002A400709060"
+		 name: "Circle"
+		 numVertices: "296"
+		 numFaces: "283"
+		
+		
+	name: "Plane.004"
+	numMeshes: 1
+	 addr: "000002A4007095B0"
+	 name: "Plane.004"
+	 numVertices: "267"
+	 numFaces: "196"
+	
+	
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "000002A400709B00"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.010"
+	numMeshes: 1
+	 addr: "000002A4007020D0"
+	 name: "Plane.010"
+	 numVertices: "39"
+	 numFaces: "23"
+	
+	
+	name: "Plane.009"
+	numMeshes: 1
+	 addr: "000002A40070A5A0"
+	 name: "Plane.012"
+	 numVertices: "333"
+	 numFaces: "329"
+	
+	
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "000002A40070A050"
+	 name: "Cylinder"
+	 numVertices: "360"
+	 numFaces: "320"
+	
+	
+	name: "Plane.011"
+	numMeshes: 1
+	 addr: "000002A400709B00"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.027"
+	numMeshes: 1
+	 addr: "000002A40070C030"
+	 name: "Plane.011"
+	 numVertices: "56"
+	 numFaces: "40"
+	
+	
+	name: "Plane.025"
+	numMeshes: 2
+	 addr: "000002A40070B040"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A40070C580"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Head_Round_wall"
+	numMeshes: 2
+	 addr: "000002A40070B590"
+	 name: "Plane.168"
+	 numVertices: "200"
+	 numFaces: "146"
+	
+	 addr: "000002A52F4EF870"
+	 name: "Plane.168"
+	 numVertices: "771"
+	 numFaces: "510"
+	
+	
+	name: "Cylinder.001"
+	numMeshes: 2
+	 addr: "000002A52F4F1DA0"
+	 name: "Cylinder.001"
+	 numVertices: "2286"
+	 numFaces: "2038"
+	
+	 addr: "000002A52F4EB8B0"
+	 name: "Cylinder.001"
+	 numVertices: "860"
+	 numFaces: "946"
+	
+	
+	name: "Wall_01"
+	numMeshes: 2
+	 addr: "000002A52F4ED890"
+	 name: "Plane.036"
+	 numVertices: "72"
+	 numFaces: "48"
+	
+	 addr: "000002A52F4F3830"
+	 name: "Plane.036"
+	 numVertices: "2110"
+	 numFaces: "1337"
+	
+	
+	name: "Empty"
+	
+	name: "Plane.007"
+	numMeshes: 1
+	 addr: "000002A400709B00"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.006"
+	numMeshes: 1
+	 addr: "000002A400709B00"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "000002A52F4F0860"
+	 name: "Plane.013"
+	 numVertices: "33"
+	 numFaces: "44"
+	
+	
+	name: "Cylinder.004"
+	numMeshes: 1
+	 addr: "000002A52F4F6800"
+	 name: "Cylinder.002"
+	 numVertices: "134"
+	 numFaces: "100"
+	
+	
+	name: "Cylinder.005"
+	numMeshes: 1
+	 addr: "000002A5161E6E50"
+	 name: "Cylinder.005"
+	 numVertices: "272"
+	 numFaces: "268"
+	
+	
+	name: "Cylinder.006"
+	numMeshes: 1
+	 addr: "000002A5161E7E40"
+	 name: "Cylinder.006"
+	 numVertices: "225"
+	 numFaces: "176"
+	
+	
+	name: "Plane.018"
+	numMeshes: 1
+	 addr: "000002A5161E23F0"
+	 name: "Plane.020"
+	 numVertices: "68"
+	 numFaces: "80"
+	
+	
+	name: "Plane.020"
+	numMeshes: 1
+	 addr: "000002A3C3762710"
+	 name: "Plane.021"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.021"
+	numMeshes: 1
+	 addr: "000002A3C375ECA0"
+	 name: "Plane.022"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.022"
+	numMeshes: 1
+	 addr: "000002A515BEE0A0"
+	 name: "Plane.023"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.023"
+	numMeshes: 1
+	 addr: "000002A55572F040"
+	 name: "Plane.024"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.029"
+	numMeshes: 1
+	 addr: "000002A555731020"
+	 name: "Plane.027"
+	 numVertices: "82"
+	 numFaces: "130"
+	
+	
+	name: "Plane.033"
+	numMeshes: 1
+	 addr: "000002A555731570"
+	 name: "Plane.032"
+	 numVertices: "8"
+	 numFaces: "6"
+	
+	
+	name: "Plane.034"
+	numMeshes: 1
+	 addr: "000002A55572E050"
+	 name: "Plane.033"
+	 numVertices: "184"
+	 numFaces: "129"
+	
+	
+	name: "Plane.019"
+	numMeshes: 1
+	 addr: "000002A555732AB0"
+	 name: "Plane.039"
+	 numVertices: "25"
+	 numFaces: "32"
+	
+	
+	name: "Plane.038"
+	numMeshes: 1
+	 addr: "000002A555733550"
+	 name: "Plane.040"
+	 numVertices: "91"
+	 numFaces: "144"
+	
+	
+	name: "Plane.040"
+	numMeshes: 1
+	 addr: "000002A55572F590"
+	 name: "Plane.043"
+	 numVertices: "34"
+	 numFaces: "20"
+	
+	
+	name: "Wall_02"
+	numMeshes: 2
+	 addr: "000002A555730030"
+	 name: "Plane.048"
+	 numVertices: "868"
+	 numFaces: "679"
+	
+	 addr: "000002A555730580"
+	 name: "Plane.048"
+	 numVertices: "59"
+	 numFaces: "39"
+	
+	
+	name: "Wall_00"
+	numMeshes: 2
+	 addr: "000002A55572D060"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A55572FAE0"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_03"
+	numMeshes: 2
+	 addr: "000002A55572E5A0"
+	 name: "Plane.050"
+	 numVertices: "282"
+	 numFaces: "116"
+	
+	 addr: "000002A555733AA0"
+	 name: "Plane.050"
+	 numVertices: "659"
+	 numFaces: "289"
+	
+	
+	name: "Plane.039"
+	numMeshes: 2
+	 addr: "000002A555733FF0"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A555734540"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Empty.001"
+	
+	name: "Plane.012"
+	numMeshes: 1
+	 addr: "000002A555734A90"
+	 name: "Plane.028"
+	 numVertices: "140"
+	 numFaces: "76"
+	
+	
+	name: "Wall_03.001"
+	numMeshes: 2
+	 addr: "000002A55572D5B0"
+	 name: "Plane.052"
+	 numVertices: "267"
+	 numFaces: "116"
+	
+	 addr: "000002A555732560"
+	 name: "Plane.052"
+	 numVertices: "628"
+	 numFaces: "289"
+	
+	
+	name: "Cylinder.008"
+	numMeshes: 2
+	 addr: "000002A555733000"
+	 name: "Cylinder.007"
+	 numVertices: "648"
+	 numFaces: "576"
+	
+	 addr: "000002A55572DB00"
+	 name: "Cylinder.007"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Plane.028"
+	numMeshes: 1
+	 addr: "000002A555735A80"
+	 name: "Plane.054"
+	 numVertices: "201"
+	 numFaces: "112"
+	
+	
+	name: "Wall_00.001"
+	numMeshes: 2
+	 addr: "000002A555735FD0"
+	 name: "Plane.060"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A555736520"
+	 name: "Plane.060"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_01.002"
+	numMeshes: 2
+	 addr: "000002A55572EAF0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555737A60"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.003"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.001"
+	numMeshes: 2
+	 addr: "000002A55572EAF0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555737A60"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.004"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.016"
+	numMeshes: 2
+	 addr: "000002A555733FF0"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A555734540"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Wall_01.005"
+	numMeshes: 2
+	 addr: "000002A55572EAF0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555737A60"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.006"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.036"
+	numMeshes: 1
+	 addr: "000002A555736FC0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.043"
+	numMeshes: 1
+	 addr: "000002A555736FC0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.046"
+	numMeshes: 1
+	 addr: "000002A555736FC0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.047"
+	numMeshes: 1
+	 addr: "000002A55573C4C0"
+	 name: "Plane.057"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.048"
+	numMeshes: 1
+	 addr: "000002A55573A4E0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.049"
+	numMeshes: 1
+	 addr: "000002A555737510"
+	 name: "Plane.059"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.050"
+	numMeshes: 1
+	 addr: "000002A55573A4E0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.052"
+	numMeshes: 1
+	 addr: "000002A55573B4D0"
+	 name: "Plane.066"
+	 numVertices: "68"
+	 numFaces: "102"
+	
+	
+	name: "Plane.053"
+	numMeshes: 1
+	 addr: "000002A55573BA20"
+	 name: "Plane.029"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Plane.054"
+	numMeshes: 1
+	 addr: "000002A55573AA30"
+	 name: "Plane.062"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Plane.056"
+	numMeshes: 1
+	 addr: "000002A55573A4E0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.057"
+	numMeshes: 1
+	 addr: "000002A555737FB0"
+	 name: "Plane.067"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.060"
+	numMeshes: 1
+	 addr: "000002A555738500"
+	 name: "Plane.071"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.061"
+	numMeshes: 1
+	 addr: "000002A555738A50"
+	 name: "Plane.072"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.062"
+	numMeshes: 1
+	 addr: "000002A555739A40"
+	 name: "Plane.073"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.063"
+	numMeshes: 1
+	 addr: "000002A5557394F0"
+	 name: "Plane.074"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Wall_01.007"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.008"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_00.002"
+	numMeshes: 2
+	 addr: "000002A55572D060"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A55572FAE0"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Plane.059"
+	numMeshes: 2
+	 addr: "000002A40070B040"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A40070C580"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Plane.064"
+	numMeshes: 2
+	 addr: "000002A40070B040"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A40070C580"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.009"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.065"
+	numMeshes: 2
+	 addr: "000002A40070B040"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A40070C580"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.010"
+	numMeshes: 2
+	 addr: "000002A55572EAF0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555737A60"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.011"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.012"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.013"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.014"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.015"
+	numMeshes: 2
+	 addr: "000002A55573CA10"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A555736A70"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.016"
+	numMeshes: 2
+	 addr: "000002A55572EAF0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555737A60"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.017"
+	numMeshes: 2
+	 addr: "000002A55572EAF0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555737A60"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Plane.076"
+	numMeshes: 2
+	 addr: "000002A55573BF70"
+	 name: "Plane.158"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A555739F90"
+	 name: "Plane.158"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "BACK_waterPlane"
+	numMeshes: 1
+	 addr: "000002A5555C4B30"
+	 name: "Plane.091"
+	 numVertices: "106"
+	 numFaces: "157"
+	
+	
+	name: "Bridge.002"
+	numMeshes: 2
+	 addr: "000002A5555C3B40"
+	 name: "Plane.047"
+	 numVertices: "490"
+	 numFaces: "410"
+	
+	 addr: "000002A5555C65C0"
+	 name: "Plane.047"
+	 numVertices: "345"
+	 numFaces: "264"
+	
+	
+	name: "Plane.026"
+	numMeshes: 1
+	 addr: "000002A5555C7B00"
+	 name: "Plane.160"
+	 numVertices: "21"
+	 numFaces: "24"
+	
+	
+	name: "Plane.077"
+	numMeshes: 1
+	 addr: "000002A5555C5B20"
+	 name: "Plane.161"
+	 numVertices: "42"
+	 numFaces: "67"
+	
+	
+	name: "Plane.078"
+	numMeshes: 1
+	 addr: "000002A5555C20B0"
+	 name: "Plane.162"
+	 numVertices: "65"
+	 numFaces: "91"
+	
+	
+	name: "Plane.079"
+	numMeshes: 1
+	 addr: "000002A5555C2B50"
+	 name: "Plane.163"
+	 numVertices: "24"
+	 numFaces: "32"
+	
+	
+	name: "Plane.080"
+	numMeshes: 1
+	 addr: "000002A5555C6B10"
+	 name: "Plane.164"
+	 numVertices: "34"
+	 numFaces: "50"
+	
+	
+	name: "Plane.081"
+	numMeshes: 1
+	 addr: "000002A5555C45E0"
+	 name: "Plane.165"
+	 numVertices: "42"
+	 numFaces: "65"
+	
+	
+	name: "Plane.082"
+	numMeshes: 1
+	 addr: "000002A5555C8AF0"
+	 name: "Plane.166"
+	 numVertices: "81"
+	 numFaces: "120"
+	
+	
+	name: "Plane.070"
+	numMeshes: 1
+	 addr: "000002A5555C55D0"
+	 name: "Plane.152"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.069"
+	numMeshes: 1
+	 addr: "000002A5555C85A0"
+	 name: "Plane.151"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.068"
+	numMeshes: 1
+	 addr: "000002A5555C10C0"
+	 name: "Plane.144"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.067"
+	numMeshes: 1
+	 addr: "000002A5555C75B0"
+	 name: "Plane.143"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.066"
+	numMeshes: 1
+	 addr: "000002A5555C4090"
+	 name: "Plane.142"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.071"
+	numMeshes: 1
+	 addr: "000002A5555C9040"
+	 name: "Plane.153"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.072"
+	numMeshes: 1
+	 addr: "000002A5555C1610"
+	 name: "Plane.154"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.073"
+	numMeshes: 1
+	 addr: "000002A5555C30A0"
+	 name: "Plane.155"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.074"
+	numMeshes: 1
+	 addr: "000002A5555C2600"
+	 name: "Plane.156"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.075"
+	numMeshes: 1
+	 addr: "000002A5555C9590"
+	 name: "Plane.157"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "HOUSE"
+	
+		name: "HOUSE|Plane.012_L_House_00.blend|Dupli|"
+		numMeshes: 2
+		 addr: "000002A5555C1B60"
+		 name: "Plane.014"
+		 numVertices: "135"
+		 numFaces: "111"
+		
+		 addr: "000002A5555CD550"
+		 name: "Plane.014"
+		 numVertices: "259"
+		 numFaces: "169"
+		
+		
+		name: "HOUSE|Wooden_shed2.001_L_House_00.blend|Dupli|1"
+		numMeshes: 1
+		 addr: "000002A5555D0520"
+		 name: "Cube.009"
+		 numVertices: "304"
+		 numFaces: "152"
+		
+		
+		name: "HOUSE|Plane.031_L_House_00.blend|Dupli|2"
+		numMeshes: 1
+		 addr: "000002A5555CDAA0"
+		 name: "Plane.028"
+		 numVertices: "1982"
+		 numFaces: "990"
+		
+		
+		name: "HOUSE|Plane.032_L_House_00.blend|Dupli|3"
+		numMeshes: 1
+		 addr: "000002A5555CDFF0"
+		 name: "Plane.031"
+		 numVertices: "98"
+		 numFaces: "58"
+		
+		
+		name: "HOUSE|Plane.001_L_House_00.blend|Dupli|4"
+		numMeshes: 1
+		 addr: "000002A5555CAAD0"
+		 name: "Plane.001"
+		 numVertices: "288"
+		 numFaces: "144"
+		
+		
+		name: "HOUSE|Plane.002_L_House_00.blend|Dupli|5"
+		numMeshes: 1
+		 addr: "000002A5555CE540"
+		 name: "Plane.002"
+		 numVertices: "504"
+		 numFaces: "252"
+		
+		
+		name: "HOUSE|Plane.003_L_House_00.blend|Dupli|6"
+		numMeshes: 1
+		 addr: "000002A5555CB570"
+		 name: "Plane.003"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.004_L_House_00.blend|Dupli|7"
+		numMeshes: 1
+		 addr: "000002A5555CEA90"
+		 name: "Plane.004"
+		 numVertices: "160"
+		 numFaces: "84"
+		
+		
+		name: "HOUSE|Plane.005_L_House_00.blend|Dupli|8"
+		numMeshes: 1
+		 addr: "000002A5555CEFE0"
+		 name: "Plane.005"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+		name: "HOUSE|Plane.006_L_House_00.blend|Dupli|9"
+		numMeshes: 1
+		 addr: "000002A5555D0A70"
+		 name: "Plane.006"
+		 numVertices: "34"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.007_L_House_00.blend|Dupli|10"
+		numMeshes: 1
+		 addr: "000002A5555CC010"
+		 name: "Plane.007"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.008_L_House_00.blend|Dupli|11"
+		numMeshes: 1
+		 addr: "000002A5555CBAC0"
+		 name: "Plane.008"
+		 numVertices: "192"
+		 numFaces: "100"
+		
+		
+		name: "HOUSE|Plane.009_L_House_00.blend|Dupli|12"
+		numMeshes: 1
+		 addr: "000002A5555CA030"
+		 name: "Plane.010"
+		 numVertices: "634"
+		 numFaces: "316"
+		
+		
+		name: "HOUSE|Plane.010_L_House_00.blend|Dupli|13"
+		numMeshes: 1
+		 addr: "000002A5555CA580"
+		 name: "Plane.011"
+		 numVertices: "544"
+		 numFaces: "272"
+		
+		
+		name: "HOUSE|Wooden_Ladder_L_House_00.blend|Dupli|14"
+		numMeshes: 1
+		 addr: "000002A5555CD000"
+		 name: "Cube.001"
+		 numVertices: "176"
+		 numFaces: "88"
+		
+		
+		name: "HOUSE|Plane.013_L_House_00.blend|Dupli|15"
+		numMeshes: 1
+		 addr: "000002A5555CB020"
+		 name: "Plane.015"
+		 numVertices: "32"
+		 numFaces: "16"
+		
+		
+		name: "HOUSE|Plane.014_L_House_00.blend|Dupli|16"
+		numMeshes: 1
+		 addr: "000002A5555CF530"
+		 name: "Plane.016"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.015_L_House_00.blend|Dupli|17"
+		
+		name: "HOUSE|Plane_L_House_00.blend|Dupli|18"
+		numMeshes: 1
+		 addr: "000002A5555CC560"
+		 name: "Plane"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "HOUSE|Plane.011_L_House_00.blend|Dupli|19"
+		numMeshes: 1
+		 addr: "000002A5555CFA80"
+		 name: "Plane.013"
+		 numVertices: "332"
+		 numFaces: "236"
+		
+		
+		name: "HOUSE|Plane.017_L_House_00.blend|Dupli|20"
+		numMeshes: 1
+		 addr: "000002A5555CFFD0"
+		 name: "Plane.025"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.018_L_House_00.blend|Dupli|21"
+		numMeshes: 1
+		 addr: "000002A5555CCAB0"
+		 name: "Plane.026"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "HOUSE|Plane.019_L_House_00.blend|Dupli|22"
+		numMeshes: 1
+		 addr: "000002A55564DBA0"
+		 name: "Plane.027"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+
+[16:57:04.075560] [Import] [info] (th=14280) File loaded successfully
+[16:57:04.075685] [Import] [info] (th=14280) Meshes count: 111
+[16:57:04.075790] [Import] [info] (th=14280) Materials count: 19
+[16:57:04.078041] [Import] [warning] (th=14280) Texture not found: E:\!SubstanceDesigner\DownLoaded\Ground\gravely_mountain_path_Normal_Gray.png
+[16:57:04.081178] [Import] [info] (th=14280) Textures count (imported): 20
+[17:03:19.875948] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\BASE_PART.fbx
+[17:03:19.955401] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002A55564A130"
+	 name: "Plane.001"
+	 numVertices: "13"
+	 numFaces: "12"
+	
+	
+	name: "Plane.002"
+	numMeshes: 1
+	 addr: "000002A55564CBB0"
+	 name: "Plane.002"
+	 numVertices: "34"
+	 numFaces: "40"
+	
+	
+	name: "Plane.003"
+	numMeshes: 2
+	 addr: "000002A555650B70"
+	 name: "Plane.167"
+	 numVertices: "480"
+	 numFaces: "364"
+	
+	 addr: "000002A55564EB90"
+	 name: "Plane.167"
+	 numVertices: "1382"
+	 numFaces: "1128"
+	
+	
+		name: "Circle"
+		numMeshes: 1
+		 addr: "000002A55564B670"
+		 name: "Circle"
+		 numVertices: "296"
+		 numFaces: "283"
+		
+		
+	name: "Plane.004"
+	numMeshes: 1
+	 addr: "000002A555649BE0"
+	 name: "Plane.004"
+	 numVertices: "267"
+	 numFaces: "196"
+	
+	
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "000002A55564E0F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.010"
+	numMeshes: 1
+	 addr: "000002A55564B120"
+	 name: "Plane.010"
+	 numVertices: "39"
+	 numFaces: "23"
+	
+	
+	name: "Plane.009"
+	numMeshes: 1
+	 addr: "000002A555650620"
+	 name: "Plane.012"
+	 numVertices: "268"
+	 numFaces: "204"
+	
+	
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "000002A55564D650"
+	 name: "Cylinder"
+	 numVertices: "360"
+	 numFaces: "320"
+	
+	
+	name: "Plane.011"
+	numMeshes: 1
+	 addr: "000002A55564E0F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.027"
+	numMeshes: 1
+	 addr: "000002A55564C110"
+	 name: "Plane.011"
+	 numVertices: "56"
+	 numFaces: "40"
+	
+	
+	name: "Plane.025"
+	numMeshes: 2
+	 addr: "000002A55564C660"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A55564D100"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Head_Round_wall"
+	numMeshes: 2
+	 addr: "000002A55564A680"
+	 name: "Plane.168"
+	 numVertices: "200"
+	 numFaces: "146"
+	
+	 addr: "000002A55564BBC0"
+	 name: "Plane.168"
+	 numVertices: "771"
+	 numFaces: "510"
+	
+	
+	name: "Cylinder.001"
+	numMeshes: 2
+	 addr: "000002A555652600"
+	 name: "Cylinder.001"
+	 numVertices: "2286"
+	 numFaces: "2038"
+	
+	 addr: "000002A55564ABD0"
+	 name: "Cylinder.001"
+	 numVertices: "860"
+	 numFaces: "946"
+	
+	
+	name: "Wall_01"
+	numMeshes: 2
+	 addr: "000002A55564FB80"
+	 name: "Plane.036"
+	 numVertices: "72"
+	 numFaces: "48"
+	
+	 addr: "000002A555655B20"
+	 name: "Plane.036"
+	 numVertices: "2110"
+	 numFaces: "1337"
+	
+	
+	name: "Plane.007"
+	numMeshes: 1
+	 addr: "000002A55564E0F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.006"
+	numMeshes: 1
+	 addr: "000002A55564E0F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "000002A5556535F0"
+	 name: "Plane.013"
+	 numVertices: "33"
+	 numFaces: "44"
+	
+	
+	name: "Cylinder.004"
+	numMeshes: 1
+	 addr: "000002A555655080"
+	 name: "Cylinder.002"
+	 numVertices: "134"
+	 numFaces: "100"
+	
+	
+	name: "Cylinder.005"
+	numMeshes: 1
+	 addr: "000002A5556530A0"
+	 name: "Cylinder.005"
+	 numVertices: "272"
+	 numFaces: "268"
+	
+	
+	name: "Cylinder.006"
+	numMeshes: 1
+	 addr: "000002A5556555D0"
+	 name: "Cylinder.006"
+	 numVertices: "225"
+	 numFaces: "176"
+	
+	
+	name: "Plane.018"
+	numMeshes: 1
+	 addr: "000002A555652B50"
+	 name: "Plane.020"
+	 numVertices: "68"
+	 numFaces: "80"
+	
+	
+	name: "Plane.020"
+	numMeshes: 1
+	 addr: "000002A555653B40"
+	 name: "Plane.021"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.021"
+	numMeshes: 1
+	 addr: "000002A5556510C0"
+	 name: "Plane.022"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.022"
+	numMeshes: 1
+	 addr: "000002A555654090"
+	 name: "Plane.023"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.023"
+	numMeshes: 1
+	 addr: "000002A555656070"
+	 name: "Plane.024"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.029"
+	numMeshes: 1
+	 addr: "000002A5556565C0"
+	 name: "Plane.027"
+	 numVertices: "82"
+	 numFaces: "130"
+	
+	
+	name: "Plane.033"
+	numMeshes: 1
+	 addr: "000002A55564F630"
+	 name: "Plane.032"
+	 numVertices: "8"
+	 numFaces: "6"
+	
+	
+	name: "Plane.034"
+	numMeshes: 1
+	 addr: "000002A555651B60"
+	 name: "Plane.033"
+	 numVertices: "184"
+	 numFaces: "129"
+	
+	
+	name: "Plane.019"
+	numMeshes: 1
+	 addr: "000002A555656B10"
+	 name: "Plane.039"
+	 numVertices: "25"
+	 numFaces: "32"
+	
+	
+	name: "Plane.038"
+	numMeshes: 1
+	 addr: "000002A5556545E0"
+	 name: "Plane.040"
+	 numVertices: "91"
+	 numFaces: "144"
+	
+	
+	name: "Plane.040"
+	numMeshes: 1
+	 addr: "000002A55564F0E0"
+	 name: "Plane.043"
+	 numVertices: "34"
+	 numFaces: "20"
+	
+	
+	name: "Wall_02"
+	numMeshes: 2
+	 addr: "000002A555657060"
+	 name: "Plane.048"
+	 numVertices: "868"
+	 numFaces: "679"
+	
+	 addr: "000002A5556575B0"
+	 name: "Plane.048"
+	 numVertices: "59"
+	 numFaces: "39"
+	
+	
+	name: "Wall_00"
+	numMeshes: 2
+	 addr: "000002A555657B00"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A55565B570"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_03"
+	numMeshes: 2
+	 addr: "000002A55565B020"
+	 name: "Plane.050"
+	 numVertices: "282"
+	 numFaces: "116"
+	
+	 addr: "000002A55565C010"
+	 name: "Plane.050"
+	 numVertices: "659"
+	 numFaces: "289"
+	
+	
+	name: "Plane.039"
+	numMeshes: 2
+	 addr: "000002A555654B30"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A555659590"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Plane.012"
+	numMeshes: 1
+	 addr: "000002A555658AF0"
+	 name: "Plane.028"
+	 numVertices: "140"
+	 numFaces: "76"
+	
+	
+	name: "Wall_03.001"
+	numMeshes: 2
+	 addr: "000002A55565C560"
+	 name: "Plane.052"
+	 numVertices: "267"
+	 numFaces: "116"
+	
+	 addr: "000002A55565A580"
+	 name: "Plane.052"
+	 numVertices: "628"
+	 numFaces: "289"
+	
+	
+	name: "Cylinder.008"
+	numMeshes: 2
+	 addr: "000002A55565DAA0"
+	 name: "Cylinder.007"
+	 numVertices: "648"
+	 numFaces: "576"
+	
+	 addr: "000002A55565A030"
+	 name: "Cylinder.007"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Plane.028"
+	numMeshes: 1
+	 addr: "000002A55565D000"
+	 name: "Plane.054"
+	 numVertices: "201"
+	 numFaces: "112"
+	
+	
+	name: "Wall_00.001"
+	numMeshes: 2
+	 addr: "000002A55565AAD0"
+	 name: "Plane.060"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A55565D550"
+	 name: "Plane.060"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_01.002"
+	numMeshes: 2
+	 addr: "000002A55565CAB0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555660FC0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.003"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.001"
+	numMeshes: 2
+	 addr: "000002A55565CAB0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555660FC0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.004"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.016"
+	numMeshes: 2
+	 addr: "000002A555654B30"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A555659590"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Wall_01.005"
+	numMeshes: 2
+	 addr: "000002A55565CAB0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555660FC0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.006"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.036"
+	numMeshes: 1
+	 addr: "000002A555662500"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.043"
+	numMeshes: 1
+	 addr: "000002A555662500"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.046"
+	numMeshes: 1
+	 addr: "000002A555662500"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.047"
+	numMeshes: 1
+	 addr: "000002A555664F80"
+	 name: "Plane.057"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.048"
+	numMeshes: 1
+	 addr: "000002A55565FFD0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.049"
+	numMeshes: 1
+	 addr: "000002A555660A70"
+	 name: "Plane.059"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.050"
+	numMeshes: 1
+	 addr: "000002A55565FFD0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.052"
+	numMeshes: 1
+	 addr: "000002A55565EFE0"
+	 name: "Plane.066"
+	 numVertices: "68"
+	 numFaces: "102"
+	
+	
+	name: "Plane.053"
+	numMeshes: 1
+	 addr: "000002A555665A20"
+	 name: "Plane.029"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Plane.054"
+	numMeshes: 1
+	 addr: "000002A555663A40"
+	 name: "Plane.062"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Plane.056"
+	numMeshes: 1
+	 addr: "000002A55565FFD0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.057"
+	numMeshes: 1
+	 addr: "000002A555663F90"
+	 name: "Plane.067"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.060"
+	numMeshes: 1
+	 addr: "000002A555661510"
+	 name: "Plane.071"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.061"
+	numMeshes: 1
+	 addr: "000002A555662A50"
+	 name: "Plane.072"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.062"
+	numMeshes: 1
+	 addr: "000002A5556654D0"
+	 name: "Plane.073"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.063"
+	numMeshes: 1
+	 addr: "000002A5556644E0"
+	 name: "Plane.074"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Wall_01.007"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.008"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_00.002"
+	numMeshes: 2
+	 addr: "000002A555657B00"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A55565B570"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Plane.059"
+	numMeshes: 2
+	 addr: "000002A55564C660"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A55564D100"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Plane.064"
+	numMeshes: 2
+	 addr: "000002A55564C660"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A55564D100"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.009"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.065"
+	numMeshes: 2
+	 addr: "000002A55564C660"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A55564D100"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.010"
+	numMeshes: 2
+	 addr: "000002A55565CAB0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555660FC0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.011"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.012"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.013"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.014"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.015"
+	numMeshes: 2
+	 addr: "000002A5556634F0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A55565F530"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.016"
+	numMeshes: 2
+	 addr: "000002A55565CAB0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555660FC0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.017"
+	numMeshes: 2
+	 addr: "000002A55565CAB0"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A555660FC0"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Plane.076"
+	numMeshes: 2
+	 addr: "000002A555661A60"
+	 name: "Plane.158"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A555665F70"
+	 name: "Plane.158"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "BACK_waterPlane"
+	numMeshes: 1
+	 addr: "000002A55565E540"
+	 name: "Plane.091"
+	 numVertices: "106"
+	 numFaces: "157"
+	
+	
+	name: "Bridge.002"
+	numMeshes: 2
+	 addr: "000002A555664A30"
+	 name: "Plane.047"
+	 numVertices: "490"
+	 numFaces: "410"
+	
+	 addr: "000002A5556664C0"
+	 name: "Plane.047"
+	 numVertices: "345"
+	 numFaces: "264"
+	
+	
+	name: "Plane.026"
+	numMeshes: 1
+	 addr: "000002A555660520"
+	 name: "Plane.160"
+	 numVertices: "21"
+	 numFaces: "24"
+	
+	
+	name: "Plane.077"
+	numMeshes: 1
+	 addr: "000002A55565EA90"
+	 name: "Plane.161"
+	 numVertices: "42"
+	 numFaces: "67"
+	
+	
+	name: "Plane.078"
+	numMeshes: 1
+	 addr: "000002A555661FB0"
+	 name: "Plane.162"
+	 numVertices: "65"
+	 numFaces: "91"
+	
+	
+	name: "Plane.079"
+	numMeshes: 1
+	 addr: "000002A555666A10"
+	 name: "Plane.163"
+	 numVertices: "24"
+	 numFaces: "32"
+	
+	
+	name: "Plane.080"
+	numMeshes: 1
+	 addr: "000002A55565FA80"
+	 name: "Plane.164"
+	 numVertices: "34"
+	 numFaces: "50"
+	
+	
+	name: "Plane.081"
+	numMeshes: 1
+	 addr: "000002A5556689F0"
+	 name: "Plane.165"
+	 numVertices: "42"
+	 numFaces: "65"
+	
+	
+	name: "Plane.082"
+	numMeshes: 1
+	 addr: "000002A555731AC0"
+	 name: "Plane.166"
+	 numVertices: "81"
+	 numFaces: "120"
+	
+	
+	name: "Plane.070"
+	numMeshes: 1
+	 addr: "000002A555734FE0"
+	 name: "Plane.152"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.069"
+	numMeshes: 1
+	 addr: "000002A555735530"
+	 name: "Plane.151"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.068"
+	numMeshes: 1
+	 addr: "000002A555730AD0"
+	 name: "Plane.144"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.067"
+	numMeshes: 1
+	 addr: "000002A555738FA0"
+	 name: "Plane.143"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.066"
+	numMeshes: 1
+	 addr: "000002A555732010"
+	 name: "Plane.142"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.071"
+	numMeshes: 1
+	 addr: "000002A55573AF80"
+	 name: "Plane.153"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.072"
+	numMeshes: 1
+	 addr: "000002A5555C9AE0"
+	 name: "Plane.154"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.073"
+	numMeshes: 1
+	 addr: "000002A5555C8050"
+	 name: "Plane.155"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.074"
+	numMeshes: 1
+	 addr: "000002A5555C7060"
+	 name: "Plane.156"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.075"
+	numMeshes: 1
+	 addr: "000002A5555C35F0"
+	 name: "Plane.157"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "HOUSE"
+	
+		name: "HOUSE|Plane.012_L_House_00.blend|Dupli|"
+		numMeshes: 2
+		 addr: "000002A5555C5080"
+		 name: "Plane.014"
+		 numVertices: "135"
+		 numFaces: "111"
+		
+		 addr: "000002A5555C6070"
+		 name: "Plane.014"
+		 numVertices: "259"
+		 numFaces: "169"
+		
+		
+		name: "HOUSE|Wooden_shed2.001_L_House_00.blend|Dupli|1"
+		numMeshes: 1
+		 addr: "000002A400707080"
+		 name: "Cube.009"
+		 numVertices: "304"
+		 numFaces: "152"
+		
+		
+		name: "HOUSE|Plane.031_L_House_00.blend|Dupli|2"
+		numMeshes: 1
+		 addr: "000002A40070BAE0"
+		 name: "Plane.028"
+		 numVertices: "1982"
+		 numFaces: "990"
+		
+		
+		name: "HOUSE|Plane.032_L_House_00.blend|Dupli|3"
+		numMeshes: 1
+		 addr: "000002A40070AAF0"
+		 name: "Plane.031"
+		 numVertices: "98"
+		 numFaces: "58"
+		
+		
+		name: "HOUSE|Plane.001_L_House_00.blend|Dupli|4"
+		numMeshes: 1
+		 addr: "000002A576528210"
+		 name: "Plane.001"
+		 numVertices: "288"
+		 numFaces: "144"
+		
+		
+		name: "HOUSE|Plane.002_L_House_00.blend|Dupli|5"
+		numMeshes: 1
+		 addr: "000002A57652D1C0"
+		 name: "Plane.002"
+		 numVertices: "504"
+		 numFaces: "252"
+		
+		
+		name: "HOUSE|Plane.003_L_House_00.blend|Dupli|6"
+		numMeshes: 1
+		 addr: "000002A576526780"
+		 name: "Plane.003"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.004_L_House_00.blend|Dupli|7"
+		numMeshes: 1
+		 addr: "000002A57652A740"
+		 name: "Plane.004"
+		 numVertices: "160"
+		 numFaces: "84"
+		
+		
+		name: "HOUSE|Plane.005_L_House_00.blend|Dupli|8"
+		numMeshes: 1
+		 addr: "000002A57652BC80"
+		 name: "Plane.005"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+		name: "HOUSE|Plane.006_L_House_00.blend|Dupli|9"
+		numMeshes: 1
+		 addr: "000002A576529200"
+		 name: "Plane.006"
+		 numVertices: "34"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.007_L_House_00.blend|Dupli|10"
+		numMeshes: 1
+		 addr: "000002A57652A1F0"
+		 name: "Plane.007"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.008_L_House_00.blend|Dupli|11"
+		numMeshes: 1
+		 addr: "000002A57652D710"
+		 name: "Plane.008"
+		 numVertices: "192"
+		 numFaces: "100"
+		
+		
+		name: "HOUSE|Plane.009_L_House_00.blend|Dupli|12"
+		numMeshes: 1
+		 addr: "000002A576529750"
+		 name: "Plane.010"
+		 numVertices: "634"
+		 numFaces: "316"
+		
+		
+		name: "HOUSE|Plane.010_L_House_00.blend|Dupli|13"
+		numMeshes: 1
+		 addr: "000002A576528CB0"
+		 name: "Plane.011"
+		 numVertices: "544"
+		 numFaces: "272"
+		
+		
+		name: "HOUSE|Wooden_Ladder_L_House_00.blend|Dupli|14"
+		numMeshes: 1
+		 addr: "000002A57652AC90"
+		 name: "Cube.001"
+		 numVertices: "176"
+		 numFaces: "88"
+		
+		
+		name: "HOUSE|Plane.013_L_House_00.blend|Dupli|15"
+		numMeshes: 1
+		 addr: "000002A576525CE0"
+		 name: "Plane.015"
+		 numVertices: "32"
+		 numFaces: "16"
+		
+		
+		name: "HOUSE|Plane.014_L_House_00.blend|Dupli|16"
+		numMeshes: 1
+		 addr: "000002A576527CC0"
+		 name: "Plane.016"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.015_L_House_00.blend|Dupli|17"
+		
+		name: "HOUSE|Plane_L_House_00.blend|Dupli|18"
+		numMeshes: 1
+		 addr: "000002A576526CD0"
+		 name: "Plane"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "HOUSE|Plane.011_L_House_00.blend|Dupli|19"
+		numMeshes: 1
+		 addr: "000002A57652E700"
+		 name: "Plane.013"
+		 numVertices: "332"
+		 numFaces: "236"
+		
+		
+		name: "HOUSE|Plane.017_L_House_00.blend|Dupli|20"
+		numMeshes: 1
+		 addr: "000002A576528760"
+		 name: "Plane.025"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.018_L_House_00.blend|Dupli|21"
+		numMeshes: 1
+		 addr: "000002A576529CA0"
+		 name: "Plane.026"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "HOUSE|Plane.019_L_House_00.blend|Dupli|22"
+		numMeshes: 1
+		 addr: "000002A57652C1D0"
+		 name: "Plane.027"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+
+[17:03:19.955463] [Import] [info] (th=14280) File loaded successfully
+[17:03:19.955499] [Import] [info] (th=14280) Meshes count: 111
+[17:03:19.955534] [Import] [info] (th=14280) Materials count: 19
+[17:03:19.957022] [Import] [warning] (th=14280) Texture not found: E:\!SubstanceDesigner\DownLoaded\Ground\gravely_mountain_path_Normal_Gray.png
+[17:03:19.958933] [Import] [info] (th=14280) Textures count (imported): 20
+[17:07:01.056029] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\BASE_PART.fbx
+[17:07:01.132214] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002A576526230"
+	 name: "Plane.001"
+	 numVertices: "13"
+	 numFaces: "12"
+	
+	
+	name: "Plane.002"
+	numMeshes: 1
+	 addr: "000002A57652E1B0"
+	 name: "Plane.002"
+	 numVertices: "34"
+	 numFaces: "40"
+	
+	
+	name: "Plane.003"
+	numMeshes: 2
+	 addr: "000002A57652EC50"
+	 name: "Plane.016"
+	 numVertices: "480"
+	 numFaces: "364"
+	
+	 addr: "000002A57652C720"
+	 name: "Plane.016"
+	 numVertices: "1382"
+	 numFaces: "1128"
+	
+	
+		name: "Circle"
+		numMeshes: 1
+		 addr: "000002A57652B730"
+		 name: "Circle"
+		 numVertices: "296"
+		 numFaces: "283"
+		
+		
+	name: "Plane.004"
+	numMeshes: 1
+	 addr: "000002A57652F1A0"
+	 name: "Plane.004"
+	 numVertices: "267"
+	 numFaces: "196"
+	
+	
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "000002A57652F6F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.010"
+	numMeshes: 1
+	 addr: "000002A57652CC70"
+	 name: "Plane.010"
+	 numVertices: "39"
+	 numFaces: "23"
+	
+	
+	name: "Plane.009"
+	numMeshes: 1
+	 addr: "000002A57652FC40"
+	 name: "Plane.012"
+	 numVertices: "268"
+	 numFaces: "204"
+	
+	
+	name: "Cylinder"
+	numMeshes: 1
+	 addr: "000002A576530190"
+	 name: "Cylinder"
+	 numVertices: "360"
+	 numFaces: "320"
+	
+	
+	name: "Plane.011"
+	numMeshes: 1
+	 addr: "000002A57652F6F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.027"
+	numMeshes: 1
+	 addr: "000002A576512E10"
+	 name: "Plane.011"
+	 numVertices: "56"
+	 numFaces: "40"
+	
+	
+	name: "Plane.025"
+	numMeshes: 2
+	 addr: "000002A576515DE0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5765148A0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Head_Round_wall"
+	numMeshes: 2
+	 addr: "000002A5765128C0"
+	 name: "Plane.159"
+	 numVertices: "200"
+	 numFaces: "146"
+	
+	 addr: "000002A576516330"
+	 name: "Plane.159"
+	 numVertices: "771"
+	 numFaces: "510"
+	
+	
+	name: "Cylinder.001"
+	numMeshes: 2
+	 addr: "000002A576516880"
+	 name: "Cylinder.001"
+	 numVertices: "2286"
+	 numFaces: "2038"
+	
+	 addr: "000002A576517DC0"
+	 name: "Cylinder.001"
+	 numVertices: "860"
+	 numFaces: "946"
+	
+	
+	name: "Wall_01"
+	numMeshes: 2
+	 addr: "000002A576511E20"
+	 name: "Plane.036"
+	 numVertices: "72"
+	 numFaces: "48"
+	
+	 addr: "000002A576516DD0"
+	 name: "Plane.036"
+	 numVertices: "2110"
+	 numFaces: "1337"
+	
+	
+	name: "Empty"
+	
+	name: "Plane.007"
+	numMeshes: 1
+	 addr: "000002A57652F6F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.006"
+	numMeshes: 1
+	 addr: "000002A57652F6F0"
+	 name: "Plane.005"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "000002A576514DF0"
+	 name: "Plane.013"
+	 numVertices: "33"
+	 numFaces: "44"
+	
+	
+	name: "Cylinder.004"
+	numMeshes: 1
+	 addr: "000002A576517320"
+	 name: "Cylinder.002"
+	 numVertices: "134"
+	 numFaces: "100"
+	
+	
+	name: "Cylinder.005"
+	numMeshes: 1
+	 addr: "000002A576513360"
+	 name: "Cylinder.005"
+	 numVertices: "272"
+	 numFaces: "268"
+	
+	
+	name: "Cylinder.006"
+	numMeshes: 1
+	 addr: "000002A576518860"
+	 name: "Cylinder.006"
+	 numVertices: "225"
+	 numFaces: "176"
+	
+	
+	name: "Plane.018"
+	numMeshes: 1
+	 addr: "000002A576517870"
+	 name: "Plane.020"
+	 numVertices: "68"
+	 numFaces: "80"
+	
+	
+	name: "Plane.020"
+	numMeshes: 1
+	 addr: "000002A576510E30"
+	 name: "Plane.021"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.021"
+	numMeshes: 1
+	 addr: "000002A576518DB0"
+	 name: "Plane.022"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.022"
+	numMeshes: 1
+	 addr: "000002A576511380"
+	 name: "Plane.023"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.023"
+	numMeshes: 1
+	 addr: "000002A5765138B0"
+	 name: "Plane.024"
+	 numVertices: "122"
+	 numFaces: "60"
+	
+	
+	name: "Plane.029"
+	numMeshes: 1
+	 addr: "000002A576519300"
+	 name: "Plane.027"
+	 numVertices: "82"
+	 numFaces: "130"
+	
+	
+	name: "Plane.033"
+	numMeshes: 1
+	 addr: "000002A5765118D0"
+	 name: "Plane.032"
+	 numVertices: "8"
+	 numFaces: "6"
+	
+	
+	name: "Plane.034"
+	numMeshes: 1
+	 addr: "000002A576519850"
+	 name: "Plane.033"
+	 numVertices: "184"
+	 numFaces: "129"
+	
+	
+	name: "Plane.019"
+	numMeshes: 1
+	 addr: "000002A576519DA0"
+	 name: "Plane.039"
+	 numVertices: "25"
+	 numFaces: "32"
+	
+	
+	name: "Plane.038"
+	numMeshes: 1
+	 addr: "000002A576515340"
+	 name: "Plane.040"
+	 numVertices: "91"
+	 numFaces: "144"
+	
+	
+	name: "Plane.040"
+	numMeshes: 1
+	 addr: "000002A576514350"
+	 name: "Plane.043"
+	 numVertices: "34"
+	 numFaces: "20"
+	
+	
+	name: "Wall_02"
+	numMeshes: 2
+	 addr: "000002A576512370"
+	 name: "Plane.048"
+	 numVertices: "868"
+	 numFaces: "679"
+	
+	 addr: "000002A57651A2F0"
+	 name: "Plane.048"
+	 numVertices: "59"
+	 numFaces: "39"
+	
+	
+	name: "Wall_00"
+	numMeshes: 2
+	 addr: "000002A576515890"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A576513E00"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_03"
+	numMeshes: 2
+	 addr: "000002A57651BD80"
+	 name: "Plane.050"
+	 numVertices: "282"
+	 numFaces: "116"
+	
+	 addr: "000002A57651F2A0"
+	 name: "Plane.050"
+	 numVertices: "659"
+	 numFaces: "289"
+	
+	
+	name: "Plane.039"
+	numMeshes: 2
+	 addr: "000002A57651B830"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A576520290"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Empty.001"
+	
+	name: "Plane.012"
+	numMeshes: 1
+	 addr: "000002A57651D2C0"
+	 name: "Plane.028"
+	 numVertices: "140"
+	 numFaces: "76"
+	
+	
+	name: "Wall_03.001"
+	numMeshes: 2
+	 addr: "000002A57651F7F0"
+	 name: "Plane.052"
+	 numVertices: "267"
+	 numFaces: "116"
+	
+	 addr: "000002A5765207E0"
+	 name: "Plane.052"
+	 numVertices: "628"
+	 numFaces: "289"
+	
+	
+	name: "Cylinder.008"
+	numMeshes: 2
+	 addr: "000002A576521D20"
+	 name: "Cylinder.007"
+	 numVertices: "648"
+	 numFaces: "576"
+	
+	 addr: "000002A57651C2D0"
+	 name: "Cylinder.007"
+	 numVertices: "32"
+	 numFaces: "30"
+	
+	
+	name: "Plane.028"
+	numMeshes: 1
+	 addr: "000002A57651D810"
+	 name: "Plane.054"
+	 numVertices: "201"
+	 numFaces: "112"
+	
+	
+	name: "Wall_00.001"
+	numMeshes: 2
+	 addr: "000002A576520D30"
+	 name: "Plane.060"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A576522270"
+	 name: "Plane.060"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Wall_01.002"
+	numMeshes: 2
+	 addr: "000002A576521280"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A57651C820"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.003"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.001"
+	numMeshes: 2
+	 addr: "000002A576521280"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A57651C820"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.004"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.016"
+	numMeshes: 2
+	 addr: "000002A57651B830"
+	 name: "Plane.051"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A576520290"
+	 name: "Plane.051"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "Wall_01.005"
+	numMeshes: 2
+	 addr: "000002A576521280"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A57651C820"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.006"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.036"
+	numMeshes: 1
+	 addr: "000002A57651B2E0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.043"
+	numMeshes: 1
+	 addr: "000002A57651B2E0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.046"
+	numMeshes: 1
+	 addr: "000002A57651B2E0"
+	 name: "Plane.025"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.047"
+	numMeshes: 1
+	 addr: "000002A576523260"
+	 name: "Plane.057"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.048"
+	numMeshes: 1
+	 addr: "000002A5765237B0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.049"
+	numMeshes: 1
+	 addr: "000002A576523D00"
+	 name: "Plane.059"
+	 numVertices: "25"
+	 numFaces: "14"
+	
+	
+	name: "Plane.050"
+	numMeshes: 1
+	 addr: "000002A5765237B0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.052"
+	numMeshes: 1
+	 addr: "000002A576524250"
+	 name: "Plane.066"
+	 numVertices: "68"
+	 numFaces: "102"
+	
+	
+	name: "Plane.053"
+	numMeshes: 1
+	 addr: "000002A5765247A0"
+	 name: "Plane.029"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Plane.054"
+	numMeshes: 1
+	 addr: "000002A57651CD70"
+	 name: "Plane.062"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Plane.056"
+	numMeshes: 1
+	 addr: "000002A5765237B0"
+	 name: "Plane.058"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.057"
+	numMeshes: 1
+	 addr: "000002A57651ED50"
+	 name: "Plane.067"
+	 numVertices: "137"
+	 numFaces: "147"
+	
+	
+	name: "Plane.060"
+	numMeshes: 1
+	 addr: "000002A576524CF0"
+	 name: "Plane.071"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.061"
+	numMeshes: 1
+	 addr: "000002A576525240"
+	 name: "Plane.072"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.062"
+	numMeshes: 1
+	 addr: "000002A576525790"
+	 name: "Plane.073"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Plane.063"
+	numMeshes: 1
+	 addr: "000002A57651DD60"
+	 name: "Plane.074"
+	 numVertices: "63"
+	 numFaces: "98"
+	
+	
+	name: "Wall_01.007"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.008"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_00.002"
+	numMeshes: 2
+	 addr: "000002A576515890"
+	 name: "Plane.049"
+	 numVertices: "313"
+	 numFaces: "251"
+	
+	 addr: "000002A576513E00"
+	 name: "Plane.049"
+	 numVertices: "311"
+	 numFaces: "218"
+	
+	
+	name: "Plane.059"
+	numMeshes: 2
+	 addr: "000002A576515DE0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5765148A0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Plane.064"
+	numMeshes: 2
+	 addr: "000002A576515DE0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5765148A0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.009"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Plane.065"
+	numMeshes: 2
+	 addr: "000002A576515DE0"
+	 name: "Plane.015"
+	 numVertices: "856"
+	 numFaces: "431"
+	
+	 addr: "000002A5765148A0"
+	 name: "Plane.015"
+	 numVertices: "122"
+	 numFaces: "62"
+	
+	
+	name: "Wall_01.010"
+	numMeshes: 2
+	 addr: "000002A576521280"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A57651C820"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.011"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.012"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.013"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.014"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.015"
+	numMeshes: 2
+	 addr: "000002A5765227C0"
+	 name: "Plane.065"
+	 numVertices: "22"
+	 numFaces: "12"
+	
+	 addr: "000002A5765217D0"
+	 name: "Plane.065"
+	 numVertices: "286"
+	 numFaces: "179"
+	
+	
+	name: "Wall_01.016"
+	numMeshes: 2
+	 addr: "000002A576521280"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A57651C820"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Wall_01.017"
+	numMeshes: 2
+	 addr: "000002A576521280"
+	 name: "Plane.064"
+	 numVertices: "207"
+	 numFaces: "124"
+	
+	 addr: "000002A57651C820"
+	 name: "Plane.064"
+	 numVertices: "19"
+	 numFaces: "11"
+	
+	
+	name: "Plane.076"
+	numMeshes: 2
+	 addr: "000002A55564E640"
+	 name: "Plane.158"
+	 numVertices: "184"
+	 numFaces: "132"
+	
+	 addr: "000002A5556500D0"
+	 name: "Plane.158"
+	 numVertices: "188"
+	 numFaces: "115"
+	
+	
+	name: "BACK_waterPlane"
+	numMeshes: 1
+	 addr: "000002A555659040"
+	 name: "Plane.091"
+	 numVertices: "106"
+	 numFaces: "157"
+	
+	
+	name: "Bridge.002"
+	numMeshes: 2
+	 addr: "000002A5556585A0"
+	 name: "Plane.047"
+	 numVertices: "490"
+	 numFaces: "410"
+	
+	 addr: "000002A555659AE0"
+	 name: "Plane.047"
+	 numVertices: "345"
+	 numFaces: "264"
+	
+	
+	name: "Plane.026"
+	numMeshes: 1
+	 addr: "000002A5556520B0"
+	 name: "Plane.160"
+	 numVertices: "21"
+	 numFaces: "24"
+	
+	
+	name: "Plane.077"
+	numMeshes: 1
+	 addr: "000002A55565BAC0"
+	 name: "Plane.161"
+	 numVertices: "42"
+	 numFaces: "67"
+	
+	
+	name: "Plane.078"
+	numMeshes: 1
+	 addr: "000002A55565DFF0"
+	 name: "Plane.162"
+	 numVertices: "65"
+	 numFaces: "91"
+	
+	
+	name: "Plane.079"
+	numMeshes: 1
+	 addr: "000002A555667A00"
+	 name: "Plane.163"
+	 numVertices: "24"
+	 numFaces: "32"
+	
+	
+	name: "Plane.080"
+	numMeshes: 1
+	 addr: "000002A5556674B0"
+	 name: "Plane.164"
+	 numVertices: "34"
+	 numFaces: "50"
+	
+	
+	name: "Plane.081"
+	numMeshes: 1
+	 addr: "000002A3E36BB450"
+	 name: "Plane.165"
+	 numVertices: "42"
+	 numFaces: "65"
+	
+	
+	name: "Plane.082"
+	numMeshes: 1
+	 addr: "000002A3E36BCEE0"
+	 name: "Plane.166"
+	 numVertices: "81"
+	 numFaces: "120"
+	
+	
+	name: "Plane.070"
+	numMeshes: 1
+	 addr: "000002A3E36C0950"
+	 name: "Plane.152"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.069"
+	numMeshes: 1
+	 addr: "000002A3E36BD430"
+	 name: "Plane.151"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.068"
+	numMeshes: 1
+	 addr: "000002A3E36BA9B0"
+	 name: "Plane.144"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.067"
+	numMeshes: 1
+	 addr: "000002A3E36B99C0"
+	 name: "Plane.143"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.066"
+	numMeshes: 1
+	 addr: "000002A3E36BF960"
+	 name: "Plane.142"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.071"
+	numMeshes: 1
+	 addr: "000002A3E36C0400"
+	 name: "Plane.153"
+	 numVertices: "96"
+	 numFaces: "48"
+	
+	
+	name: "Plane.072"
+	numMeshes: 1
+	 addr: "000002A3E36C0EA0"
+	 name: "Plane.154"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+	name: "Plane.073"
+	numMeshes: 1
+	 addr: "000002A3E36BFEB0"
+	 name: "Plane.155"
+	 numVertices: "192"
+	 numFaces: "100"
+	
+	
+	name: "Plane.074"
+	numMeshes: 1
+	 addr: "000002A3E36B9470"
+	 name: "Plane.156"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "Plane.075"
+	numMeshes: 1
+	 addr: "000002A3E36C13F0"
+	 name: "Plane.157"
+	 numVertices: "634"
+	 numFaces: "316"
+	
+	
+	name: "HOUSE"
+	
+		name: "HOUSE|Plane.012_L_House_00.blend|Dupli|"
+		numMeshes: 2
+		 addr: "000002A3E36BAF00"
+		 name: "Plane.014"
+		 numVertices: "135"
+		 numFaces: "111"
+		
+		 addr: "000002A3E36C1940"
+		 name: "Plane.014"
+		 numVertices: "259"
+		 numFaces: "169"
+		
+		
+		name: "HOUSE|Wooden_shed2.001_L_House_00.blend|Dupli|1"
+		numMeshes: 1
+		 addr: "000002A3E36BB9A0"
+		 name: "Cube.009"
+		 numVertices: "304"
+		 numFaces: "152"
+		
+		
+		name: "HOUSE|Plane.031_L_House_00.blend|Dupli|2"
+		numMeshes: 1
+		 addr: "000002A3E36B9F10"
+		 name: "Plane.028"
+		 numVertices: "1982"
+		 numFaces: "990"
+		
+		
+		name: "HOUSE|Plane.032_L_House_00.blend|Dupli|3"
+		numMeshes: 1
+		 addr: "000002A3E36BEEC0"
+		 name: "Plane.031"
+		 numVertices: "98"
+		 numFaces: "58"
+		
+		
+		name: "HOUSE|Plane.001_L_House_00.blend|Dupli|4"
+		numMeshes: 1
+		 addr: "000002A3E36C1E90"
+		 name: "Plane.001"
+		 numVertices: "288"
+		 numFaces: "144"
+		
+		
+		name: "HOUSE|Plane.002_L_House_00.blend|Dupli|5"
+		numMeshes: 1
+		 addr: "000002A3E36C23E0"
+		 name: "Plane.002"
+		 numVertices: "504"
+		 numFaces: "252"
+		
+		
+		name: "HOUSE|Plane.003_L_House_00.blend|Dupli|6"
+		numMeshes: 1
+		 addr: "000002A3E36BD980"
+		 name: "Plane.003"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.004_L_House_00.blend|Dupli|7"
+		numMeshes: 1
+		 addr: "000002A3E36C2E80"
+		 name: "Plane.004"
+		 numVertices: "160"
+		 numFaces: "84"
+		
+		
+		name: "HOUSE|Plane.005_L_House_00.blend|Dupli|8"
+		numMeshes: 1
+		 addr: "000002A3E36BC990"
+		 name: "Plane.005"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+		name: "HOUSE|Plane.006_L_House_00.blend|Dupli|9"
+		numMeshes: 1
+		 addr: "000002A3E36C33D0"
+		 name: "Plane.006"
+		 numVertices: "34"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.007_L_House_00.blend|Dupli|10"
+		numMeshes: 1
+		 addr: "000002A3E36C3920"
+		 name: "Plane.007"
+		 numVertices: "40"
+		 numFaces: "20"
+		
+		
+		name: "HOUSE|Plane.008_L_House_00.blend|Dupli|11"
+		numMeshes: 1
+		 addr: "000002A3E36BBEF0"
+		 name: "Plane.008"
+		 numVertices: "192"
+		 numFaces: "100"
+		
+		
+		name: "HOUSE|Plane.009_L_House_00.blend|Dupli|12"
+		numMeshes: 1
+		 addr: "000002A3E36BC440"
+		 name: "Plane.010"
+		 numVertices: "634"
+		 numFaces: "316"
+		
+		
+		name: "HOUSE|Plane.010_L_House_00.blend|Dupli|13"
+		numMeshes: 1
+		 addr: "000002A3E36BDED0"
+		 name: "Plane.011"
+		 numVertices: "544"
+		 numFaces: "272"
+		
+		
+		name: "HOUSE|Wooden_Ladder_L_House_00.blend|Dupli|14"
+		numMeshes: 1
+		 addr: "000002A3E36BE420"
+		 name: "Cube.001"
+		 numVertices: "176"
+		 numFaces: "88"
+		
+		
+		name: "HOUSE|Plane.013_L_House_00.blend|Dupli|15"
+		numMeshes: 1
+		 addr: "000002A3E36BE970"
+		 name: "Plane.015"
+		 numVertices: "32"
+		 numFaces: "16"
+		
+		
+		name: "HOUSE|Plane.014_L_House_00.blend|Dupli|16"
+		numMeshes: 1
+		 addr: "000002A3E36BF410"
+		 name: "Plane.016"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.015_L_House_00.blend|Dupli|17"
+		
+		name: "HOUSE|Plane_L_House_00.blend|Dupli|18"
+		numMeshes: 1
+		 addr: "000002A3E36AA560"
+		 name: "Plane"
+		 numVertices: "12"
+		 numFaces: "6"
+		
+		
+		name: "HOUSE|Plane.011_L_House_00.blend|Dupli|19"
+		numMeshes: 1
+		 addr: "000002A3E36A4070"
+		 name: "Plane.013"
+		 numVertices: "332"
+		 numFaces: "236"
+		
+		
+		name: "HOUSE|Plane.017_L_House_00.blend|Dupli|20"
+		numMeshes: 1
+		 addr: "000002A3E36ABAA0"
+		 name: "Plane.025"
+		 numVertices: "280"
+		 numFaces: "140"
+		
+		
+		name: "HOUSE|Plane.018_L_House_00.blend|Dupli|21"
+		numMeshes: 1
+		 addr: "000002A3E36A7040"
+		 name: "Plane.026"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "HOUSE|Plane.019_L_House_00.blend|Dupli|22"
+		numMeshes: 1
+		 addr: "000002A3E36A6050"
+		 name: "Plane.027"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+
+[17:07:01.132273] [Import] [info] (th=14280) File loaded successfully
+[17:07:01.132310] [Import] [info] (th=14280) Meshes count: 111
+[17:07:01.132345] [Import] [info] (th=14280) Materials count: 19
+[17:07:01.133831] [Import] [warning] (th=14280) Texture not found: E:\!SubstanceDesigner\DownLoaded\Ground\gravely_mountain_path_Normal_Gray.png
+[17:07:01.136536] [Import] [info] (th=14280) Textures count (imported): 20
+[18:19:37.316016] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\Water_Planes.fbx
+[18:19:37.318356] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002A3E36A9020"
+	 name: "Plane.001"
+	 numVertices: "13"
+	 numFaces: "12"
+	
+	
+	name: "BACK_waterPlane"
+	numMeshes: 1
+	 addr: "000002A3E36AB000"
+	 name: "Plane.091"
+	 numVertices: "106"
+	 numFaces: "157"
+	
+	
+
+[18:19:37.318402] [Import] [info] (th=14280) File loaded successfully
+[18:19:37.318438] [Import] [info] (th=14280) Meshes count: 2
+[18:19:37.318475] [Import] [info] (th=14280) Materials count: 1
+[18:19:37.318595] [Import] [info] (th=14280) Textures count (imported): 0
+[18:32:59.425418] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\HellGate.fbx
+[18:32:59.526973] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "HG_Tent"
+	numMeshes: 1
+	 addr: "000002A3E36A7590"
+	 name: "Circle.028"
+	 numVertices: "3824"
+	 numFaces: "4870"
+	
+	
+		name: "MeatSphere"
+		numMeshes: 2
+		 addr: "000002A3E36AA010"
+		 name: "Cube.005"
+		 numVertices: "2074"
+		 numFaces: "2134"
+		
+		 addr: "000002A3E36A45C0"
+		 name: "Cube.005"
+		 numVertices: "632"
+		 numFaces: "896"
+		
+		
+			name: "chain"
+			numMeshes: 1
+			 addr: "000002A3E36AC540"
+			 name: "Circle.001"
+			 numVertices: "872"
+			 numFaces: "832"
+			
+			
+		name: "Tent_door"
+		numMeshes: 1
+		 addr: "000002A3E36A7AE0"
+		 name: "Plane.008"
+		 numVertices: "28"
+		 numFaces: "14"
+		
+		
+	name: "HG_Head"
+	numMeshes: 1
+	 addr: "000002A3E36AAAB0"
+	 name: "Circle.013"
+	 numVertices: "2482"
+	 numFaces: "3570"
+	
+	
+		name: "Plane"
+		numMeshes: 1
+		 addr: "000002A3E36A8030"
+		 name: "Plane.069"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+		name: "Plane.058"
+		numMeshes: 1
+		 addr: "000002A3E36A8580"
+		 name: "Plane.070"
+		 numVertices: "24"
+		 numFaces: "12"
+		
+		
+	name: "HG_Head.002"
+	numMeshes: 1
+	 addr: "000002A3E36A9570"
+	 name: "Circle.015"
+	 numVertices: "676"
+	 numFaces: "698"
+	
+	
+	name: "HG_Head.001"
+	numMeshes: 1
+	 addr: "000002A3E36A9AC0"
+	 name: "Circle.016"
+	 numVertices: "1096"
+	 numFaces: "1664"
+	
+	
+	name: "Armature.003"
+	
+		name: "Root"
+		
+			name: "teeth1.L"
+			
+				name: "teeth1.L_end"
+				
+			name: "teeth2.L"
+			
+				name: "teeth2.L_end"
+				
+			name: "teeth3.L"
+			
+				name: "teeth3.L_end"
+				
+			name: "teeth1.R"
+			
+				name: "teeth1.R_end"
+				
+			name: "teeth2.R"
+			
+				name: "teeth2.R_end"
+				
+			name: "teeth3.R"
+			
+				name: "teeth3.R_end"
+				
+	name: "Armature.004"
+	
+		name: "HG_Head.003"
+		numMeshes: 1
+		 addr: "000002A3E36A4B10"
+		 name: "Circle.007"
+		 numVertices: "64"
+		 numFaces: "84"
+		
+		
+		name: "Root001"
+		
+			name: "EyeLashTop.L"
+			
+				name: "EyeLashTop.L_end"
+				
+			name: "EyeLashBottom.L"
+			
+				name: "EyeLashBottom.L_end"
+				
+			name: "EyeLashTop.R"
+			
+				name: "EyeLashTop.R_end"
+				
+			name: "EyeLashBottom.R"
+			
+				name: "EyeLashBottom.R_end"
+				
+			name: "EyeBrow1.L"
+			
+				name: "EyeBrow1.L_end"
+				
+			name: "EyeBrow2.L"
+			
+				name: "EyeBrow2.L_end"
+				
+			name: "EyeBrow1.R"
+			
+				name: "EyeBrow1.R_end"
+				
+			name: "EyeBrow2.R"
+			
+				name: "EyeBrow2.R_end"
+				
+	name: "Armature.005"
+	
+		name: "Eye.L"
+		
+			name: "Eye.L_end"
+			
+		name: "Eye.R"
+		
+			name: "Eye.R_end"
+			
+		name: "Eyes_Target"
+		
+			name: "Eyes_Target.L"
+			
+				name: "Eyes_Target.L_end"
+				
+			name: "Eyes_Target.R"
+			
+				name: "Eyes_Target.R_end"
+				
+		name: "Root.001"
+		
+			name: "Root.001_end"
+			
+	name: "Wall_00.003"
+	numMeshes: 1
+	 addr: "000002A3E36ACA90"
+	 name: "Plane.016"
+	 numVertices: "346"
+	 numFaces: "256"
+	
+	
+
+[18:32:59.527051] [Import] [info] (th=14280) File loaded successfully
+[18:32:59.527111] [Import] [info] (th=14280) Meshes count: 12
+[18:32:59.527170] [Import] [info] (th=14280) Materials count: 7
+[18:32:59.529098] [Import] [info] (th=14280) Textures count (imported): 11
+[18:37:03.981940] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\HellGate.fbx
+[18:37:04.009212] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "HG_Head"
+	numMeshes: 1
+	 addr: "000002A3E36ACFE0"
+	 name: "Circle.013"
+	 numVertices: "2482"
+	 numFaces: "3570"
+	
+	
+	name: "HG_Head.002"
+	numMeshes: 1
+	 addr: "000002A3E36A6AF0"
+	 name: "Circle.015"
+	 numVertices: "676"
+	 numFaces: "698"
+	
+	
+	name: "HG_Head.001"
+	numMeshes: 1
+	 addr: "000002A3E36ADFD0"
+	 name: "Circle.016"
+	 numVertices: "1096"
+	 numFaces: "1664"
+	
+	
+	name: "Armature.003"
+	
+		name: "Root"
+		
+			name: "teeth1.L"
+			
+				name: "teeth1.L_end"
+				
+			name: "teeth2.L"
+			
+				name: "teeth2.L_end"
+				
+			name: "teeth3.L"
+			
+				name: "teeth3.L_end"
+				
+			name: "teeth1.R"
+			
+				name: "teeth1.R_end"
+				
+			name: "teeth2.R"
+			
+				name: "teeth2.R_end"
+				
+			name: "teeth3.R"
+			
+				name: "teeth3.R_end"
+				
+	name: "Armature.004"
+	
+		name: "Root001"
+		
+			name: "EyeLashTop.L"
+			
+				name: "EyeLashTop.L_end"
+				
+			name: "EyeLashBottom.L"
+			
+				name: "EyeLashBottom.L_end"
+				
+			name: "EyeLashTop.R"
+			
+				name: "EyeLashTop.R_end"
+				
+			name: "EyeLashBottom.R"
+			
+				name: "EyeLashBottom.R_end"
+				
+			name: "EyeBrow1.L"
+			
+				name: "EyeBrow1.L_end"
+				
+			name: "EyeBrow2.L"
+			
+				name: "EyeBrow2.L_end"
+				
+			name: "EyeBrow1.R"
+			
+				name: "EyeBrow1.R_end"
+				
+			name: "EyeBrow2.R"
+			
+				name: "EyeBrow2.R_end"
+				
+	name: "Armature.005"
+	
+		name: "Eye.L"
+		
+			name: "Eye.L_end"
+			
+		name: "Eye.R"
+		
+			name: "Eye.R_end"
+			
+		name: "Eyes_Target"
+		
+			name: "Eyes_Target.L"
+			
+				name: "Eyes_Target.L_end"
+				
+			name: "Eyes_Target.R"
+			
+				name: "Eyes_Target.R_end"
+				
+		name: "Root.001"
+		
+			name: "Root.001_end"
+			
+
+[18:37:04.009264] [Import] [info] (th=14280) File loaded successfully
+[18:37:04.009300] [Import] [info] (th=14280) Meshes count: 3
+[18:37:04.009334] [Import] [info] (th=14280) Materials count: 1
+[18:37:04.009760] [Import] [info] (th=14280) Textures count (imported): 2
+[18:39:50.829992] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\HellGate.fbx
+[18:39:50.846636] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "HG_Head"
+	numMeshes: 1
+	 addr: "000002A3E36AB550"
+	 name: "Circle.013"
+	 numVertices: "2482"
+	 numFaces: "3570"
+	
+	
+	name: "HG_Head.002"
+	numMeshes: 1
+	 addr: "000002A3E36A55B0"
+	 name: "Circle.015"
+	 numVertices: "676"
+	 numFaces: "698"
+	
+	
+	name: "HG_Head.001"
+	numMeshes: 1
+	 addr: "000002A3E36B64A0"
+	 name: "Circle.016"
+	 numVertices: "1096"
+	 numFaces: "1664"
+	
+	
+	name: "Armature_TeethCage"
+	
+		name: "Root"
+		
+			name: "teeth1.L"
+			
+			name: "teeth2.L"
+			
+			name: "teeth3.L"
+			
+			name: "teeth1.R"
+			
+			name: "teeth2.R"
+			
+			name: "teeth3.R"
+			
+	name: "Armature_Eyes_Lashes"
+	
+		name: "Root001"
+		
+			name: "EyeLashTop.L"
+			
+			name: "EyeLashBottom.L"
+			
+			name: "EyeLashTop.R"
+			
+			name: "EyeLashBottom.R"
+			
+			name: "EyeBrow1.L"
+			
+			name: "EyeBrow2.L"
+			
+			name: "EyeBrow1.R"
+			
+			name: "EyeBrow2.R"
+			
+	name: "Armature_Eyes"
+	
+		name: "Eye.L"
+		
+		name: "Eye.R"
+		
+		name: "Root.001"
+		
+
+[18:39:50.846770] [Import] [info] (th=14280) File loaded successfully
+[18:39:50.846861] [Import] [info] (th=14280) Meshes count: 3
+[18:39:50.846905] [Import] [info] (th=14280) Materials count: 1
+[18:39:50.847230] [Import] [info] (th=14280) Textures count (imported): 2
+[18:40:04.694101] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\ani_HellGate_eyesAction.fbx
+[18:40:04.727478] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature_Eyes"
+	
+		name: "Eye.L"
+		
+		name: "Eye.R"
+		
+		name: "Root.001"
+		
+
+[18:40:04.727529] [Import] [info] (th=14280) File loaded successfully
+[18:40:04.727565] [Import] [info] (th=14280) Meshes count: 0
+[18:40:04.727620] [Import] [info] (th=14280) Materials count: 0
+[18:46:22.073215] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\HellGate_nonSkin.fbx
+[18:46:22.096052] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "HG_Tent"
+	numMeshes: 1
+	 addr: "000002A3E36AFFB0"
+	 name: "Circle.028"
+	 numVertices: "3824"
+	 numFaces: "4870"
+	
+	
+		name: "MeatSphere"
+		numMeshes: 2
+		 addr: "000002A3E36B0500"
+		 name: "Cube.005"
+		 numVertices: "2074"
+		 numFaces: "2134"
+		
+		 addr: "000002A3E36B5A00"
+		 name: "Cube.005"
+		 numVertices: "632"
+		 numFaces: "896"
+		
+		
+			name: "chain"
+			numMeshes: 1
+			 addr: "000002A3E36B44C0"
+			 name: "Circle.001"
+			 numVertices: "872"
+			 numFaces: "832"
+			
+			
+		name: "Tent_door"
+		numMeshes: 1
+		 addr: "000002A3E36AEFC0"
+		 name: "Plane.008"
+		 numVertices: "28"
+		 numFaces: "14"
+		
+		
+	name: "HG_Head.003"
+	numMeshes: 1
+	 addr: "000002A3E36B1A40"
+	 name: "Circle.007"
+	 numVertices: "64"
+	 numFaces: "84"
+	
+	
+	name: "Wall_00.003"
+	numMeshes: 1
+	 addr: "000002A3E36B5F50"
+	 name: "Plane.016"
+	 numVertices: "346"
+	 numFaces: "256"
+	
+	
+	name: "Plane"
+	numMeshes: 1
+	 addr: "000002A3E36B2A30"
+	 name: "Plane.069"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Plane.058"
+	numMeshes: 1
+	 addr: "000002A3E36B14F0"
+	 name: "Plane.070"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[18:46:22.096100] [Import] [info] (th=14280) File loaded successfully
+[18:46:22.096136] [Import] [info] (th=14280) Meshes count: 9
+[18:46:22.096170] [Import] [info] (th=14280) Materials count: 6
+[18:46:22.097298] [Import] [info] (th=14280) Textures count (imported): 9
+[18:50:03.393706] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\Chain.fbx
+[18:50:03.396593] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "chain"
+	numMeshes: 1
+	 addr: "000002A3E36AEA70"
+	 name: "Circle.001"
+	 numVertices: "872"
+	 numFaces: "832"
+	
+	
+
+[18:50:03.396637] [Import] [info] (th=14280) File loaded successfully
+[18:50:03.396672] [Import] [info] (th=14280) Meshes count: 1
+[18:50:03.396707] [Import] [info] (th=14280) Materials count: 1
+[18:50:03.397009] [Import] [info] (th=14280) Textures count (imported): 2
+[18:51:28.454095] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\ani_HellGate_blink.fbx
+[18:51:28.460115] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature_Eyes_Lashes"
+	
+		name: "Root"
+		
+			name: "EyeLashTop.L"
+			
+			name: "EyeLashBottom.L"
+			
+			name: "EyeLashTop.R"
+			
+			name: "EyeLashBottom.R"
+			
+			name: "EyeBrow1.L"
+			
+			name: "EyeBrow2.L"
+			
+			name: "EyeBrow1.R"
+			
+			name: "EyeBrow2.R"
+			
+
+[18:51:28.460164] [Import] [info] (th=14280) File loaded successfully
+[18:51:28.460200] [Import] [info] (th=14280) Meshes count: 0
+[18:51:28.460234] [Import] [info] (th=14280) Materials count: 0
+[18:51:28.461083] [Import] [error] (th=14280) Cannot find node: Root
+[18:51:28.461122] [Import] [error] (th=14280) File's animations are incompatible with the selected MANU's node
+[18:51:43.246665] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\ani_HellGate_blink.fbx
+[18:51:43.251814] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature_Eyes_Lashes"
+	
+		name: "Root"
+		
+			name: "EyeLashTop.L"
+			
+			name: "EyeLashBottom.L"
+			
+			name: "EyeLashTop.R"
+			
+			name: "EyeLashBottom.R"
+			
+			name: "EyeBrow1.L"
+			
+			name: "EyeBrow2.L"
+			
+			name: "EyeBrow1.R"
+			
+			name: "EyeBrow2.R"
+			
+
+[18:51:43.251862] [Import] [info] (th=14280) File loaded successfully
+[18:51:43.251904] [Import] [info] (th=14280) Meshes count: 0
+[18:51:43.251939] [Import] [info] (th=14280) Materials count: 0
+[18:52:53.061841] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\ani_HellGate_TeethClose.fbx
+[18:52:53.065436] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature_TeethCage"
+	
+		name: "Root"
+		
+			name: "teeth1.L"
+			
+			name: "teeth2.L"
+			
+			name: "teeth3.L"
+			
+			name: "teeth1.R"
+			
+			name: "teeth2.R"
+			
+			name: "teeth3.R"
+			
+
+[18:52:53.065481] [Import] [info] (th=14280) File loaded successfully
+[18:52:53.065520] [Import] [info] (th=14280) Meshes count: 0
+[18:52:53.065558] [Import] [info] (th=14280) Materials count: 0
+[18:53:09.641965] [Import] [info] (th=14280) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\ani_HellGate_TeethOpen.fbx
+[18:53:09.647383] [Import] [info] (th=14280) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature_TeethCage"
+	
+		name: "Root"
+		
+			name: "teeth1.L"
+			
+			name: "teeth2.L"
+			
+			name: "teeth3.L"
+			
+			name: "teeth1.R"
+			
+			name: "teeth2.R"
+			
+			name: "teeth3.R"
+			
+
+[18:53:09.647431] [Import] [info] (th=14280) File loaded successfully
+[18:53:09.647476] [Import] [info] (th=14280) Meshes count: 0
+[18:53:09.647511] [Import] [info] (th=14280) Materials count: 0

@@ -1,0 +1,121 @@
+[21:01:34.320175] [Import] [info] (th=7608) Log level for 'Import' set to 'info'
+[21:01:34.354728] [Import] [info] (th=7608) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\WheelPilar.fbx
+[21:01:34.482635] [Import] [info] (th=7608) Imported scene tree:
+name: "RootNode"
+
+	name: "Wheel_pilar"
+	numMeshes: 1
+	 addr: "000002D7A3BCEF20"
+	 name: "Circle.003"
+	 numVertices: "648"
+	 numFaces: "562"
+	
+	
+
+[21:01:34.482680] [Import] [info] (th=7608) File loaded successfully
+[21:01:34.482714] [Import] [info] (th=7608) Meshes count: 1
+[21:01:34.482748] [Import] [info] (th=7608) Materials count: 1
+[21:01:34.485532] [Import] [info] (th=7608) Textures count (imported): 2
+[21:02:39.727161] [Import] [info] (th=7608) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\WheelPilar.fbx
+[21:02:39.729833] [Import] [info] (th=7608) Imported scene tree:
+name: "RootNode"
+
+	name: "Wheel_pilar"
+	numMeshes: 1
+	 addr: "000002D7A3BCC4A0"
+	 name: "Circle.003"
+	 numVertices: "648"
+	 numFaces: "562"
+	
+	
+
+[21:02:39.729872] [Import] [info] (th=7608) File loaded successfully
+[21:02:39.729906] [Import] [info] (th=7608) Meshes count: 1
+[21:02:39.729939] [Import] [info] (th=7608) Materials count: 1
+[21:02:39.730514] [Import] [warning] (th=7608) It seems that scene structure is different
+[21:05:39.966594] [Import] [info] (th=7608) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\Pavement_parts.fbx
+[21:05:39.988653] [Import] [info] (th=7608) Imported scene tree:
+name: "RootNode"
+
+	name: "Pavement2.011"
+	numMeshes: 2
+	 addr: "000002D7A3BCF9C0"
+	 name: "Plane.045"
+	 numVertices: "391"
+	 numFaces: "176"
+	
+	 addr: "000002D7A3BD0460"
+	 name: "Plane.045"
+	 numVertices: "103"
+	 numFaces: "59"
+	
+	
+	name: "Pavement2.012"
+	numMeshes: 2
+	 addr: "000002D7A3BC94D0"
+	 name: "Plane.017"
+	 numVertices: "223"
+	 numFaces: "124"
+	
+	 addr: "000002D7A3BC9A20"
+	 name: "Plane.017"
+	 numVertices: "44"
+	 numFaces: "43"
+	
+	
+	name: "Pavement2.013"
+	numMeshes: 2
+	 addr: "000002D9731540E0"
+	 name: "Plane.026"
+	 numVertices: "151"
+	 numFaces: "89"
+	
+	 addr: "000002D973159090"
+	 name: "Plane.026"
+	 numVertices: "35"
+	 numFaces: "34"
+	
+	
+	name: "Pavement2.014"
+	numMeshes: 2
+	 addr: "000002D9731580A0"
+	 name: "Plane.056"
+	 numVertices: "104"
+	 numFaces: "70"
+	
+	 addr: "000002D973152650"
+	 name: "Plane.056"
+	 numVertices: "24"
+	 numFaces: "22"
+	
+	
+
+[21:05:39.988698] [Import] [info] (th=7608) File loaded successfully
+[21:05:39.988732] [Import] [info] (th=7608) Meshes count: 8
+[21:05:39.988766] [Import] [info] (th=7608) Materials count: 2
+[21:05:39.989172] [Import] [info] (th=7608) Textures count (imported): 3
+[21:18:21.251490] [Import] [info] (th=7608) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\Eyes_cages.fbx
+[21:18:21.253595] [Import] [info] (th=7608) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.014"
+	numMeshes: 1
+	 addr: "000002D973154B80"
+	 name: "Plane.016"
+	 numVertices: "192"
+	 numFaces: "96"
+	
+	
+	name: "Plane.015"
+	numMeshes: 1
+	 addr: "000002D973155620"
+	 name: "Plane.159"
+	 numVertices: "192"
+	 numFaces: "96"
+	
+	
+
+[21:18:21.253637] [Import] [info] (th=7608) File loaded successfully
+[21:18:21.253671] [Import] [info] (th=7608) Meshes count: 2
+[21:18:21.253709] [Import] [info] (th=7608) Materials count: 1
+[21:18:21.253968] [Import] [info] (th=7608) Textures count (imported): 2

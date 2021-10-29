@@ -1,0 +1,254 @@
+[09:57:26.011071] [Import] [info] (th=20748) Log level for 'Import' set to 'info'
+[09:57:26.011184] [Import] [info] (th=20748) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\Water_Planes.fbx
+[09:57:26.014430] [Import] [info] (th=20748) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.033"
+	numMeshes: 1
+	 addr: "000001FBCC855570"
+	 name: "Plane.032"
+	 numVertices: "8"
+	 numFaces: "6"
+	
+	
+	name: "BACK_waterPlane"
+	numMeshes: 1
+	 addr: "000001FBCC856010"
+	 name: "Plane.091"
+	 numVertices: "58"
+	 numFaces: "71"
+	
+	
+	name: "BACK_waterPlane.001"
+	numMeshes: 1
+	 addr: "000001FBCC8525A0"
+	 name: "Plane.016"
+	 numVertices: "60"
+	 numFaces: "90"
+	
+	
+	name: "Plane.042"
+	numMeshes: 1
+	 addr: "000001FBCC853040"
+	 name: "Plane.168"
+	 numVertices: "9"
+	 numFaces: "8"
+	
+	
+
+[09:57:26.014475] [Import] [info] (th=20748) File loaded successfully
+[09:57:26.014511] [Import] [info] (th=20748) Meshes count: 4
+[09:57:26.014548] [Import] [info] (th=20748) Materials count: 2
+[09:57:26.014897] [Import] [warning] (th=20748) Texture not found: E:\!SubstanceDesigner\DownLoaded\Ground\gravely_mountain_path_Normal_Gray.png
+[09:57:26.014993] [Import] [info] (th=20748) Textures count (imported): 1
+[09:59:14.911447] [Import] [info] (th=20748) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\Water_Planes.fbx
+[09:59:14.914232] [Import] [info] (th=20748) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000001FBCC856560"
+	 name: "Plane.001"
+	 numVertices: "6"
+	 numFaces: "4"
+	
+	
+	name: "BACK_waterPlane"
+	numMeshes: 1
+	 addr: "000001FBCC850070"
+	 name: "Plane.091"
+	 numVertices: "58"
+	 numFaces: "71"
+	
+	
+	name: "BACK_waterPlane.001"
+	numMeshes: 1
+	 addr: "000001FBCC84F5D0"
+	 name: "Plane.016"
+	 numVertices: "60"
+	 numFaces: "90"
+	
+	
+	name: "Plane.042"
+	numMeshes: 1
+	 addr: "000001FBCC856AB0"
+	 name: "Plane.168"
+	 numVertices: "9"
+	 numFaces: "8"
+	
+	
+
+[09:59:14.914279] [Import] [info] (th=20748) File loaded successfully
+[09:59:14.914312] [Import] [info] (th=20748) Meshes count: 4
+[09:59:14.914346] [Import] [info] (th=20748) Materials count: 1
+[09:59:14.914459] [Import] [info] (th=20748) Textures count (imported): 0
+[10:08:19.594410] [Import] [info] (th=20748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Props\Marys_Props.fbx
+[10:08:19.668779] [Import] [info] (th=20748) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.003"
+	numMeshes: 1
+	 addr: "000001FBCC852AF0"
+	 name: "Cube.007"
+	 numVertices: "1120"
+	 numFaces: "1274"
+	
+	
+	name: "Cylinder.001"
+	numMeshes: 1
+	 addr: "000001FBCC854580"
+	 name: "Cylinder.001"
+	 numVertices: "98"
+	 numFaces: "82"
+	
+	
+	name: "23"
+	numMeshes: 1
+	 addr: "000001FBCC851B00"
+	 name: "Plane.018"
+	 numVertices: "52"
+	 numFaces: "26"
+	
+	
+	name: "Pan.001"
+	numMeshes: 1
+	 addr: "000001FBCC853590"
+	 name: "Cylinder.002"
+	 numVertices: "112"
+	 numFaces: "106"
+	
+	
+	name: "Plane.003"
+	numMeshes: 1
+	 addr: "000001FBCC850B10"
+	 name: "Plane.026"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Cube.011"
+	numMeshes: 1
+	 addr: "000001FBCC855AC0"
+	 name: "Cube.017"
+	 numVertices: "1339"
+	 numFaces: "1522"
+	
+	
+	name: "Cylinder.003"
+	numMeshes: 1
+	 addr: "000001FBCC851060"
+	 name: "Cylinder.003"
+	 numVertices: "98"
+	 numFaces: "82"
+	
+	
+	name: "Cylinder.004"
+	numMeshes: 1
+	 addr: "000001FBCC8515B0"
+	 name: "Cylinder.004"
+	 numVertices: "98"
+	 numFaces: "82"
+	
+	
+	name: "Cylinder.005"
+	numMeshes: 1
+	 addr: "000001FBCC84FB20"
+	 name: "Cylinder.005"
+	 numVertices: "98"
+	 numFaces: "82"
+	
+	
+	name: "Cylinder.006"
+	numMeshes: 1
+	 addr: "000001FB0E02C300"
+	 name: "Cylinder.006"
+	 numVertices: "98"
+	 numFaces: "82"
+	
+	
+	name: "23.006"
+	numMeshes: 1
+	 addr: "000001FB0E02C850"
+	 name: "Plane.003"
+	 numVertices: "52"
+	 numFaces: "26"
+	
+	
+	name: "Plane.004"
+	numMeshes: 1
+	 addr: "000001FB0E02F2D0"
+	 name: "Plane.006"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "000001FB0E02CDA0"
+	 name: "Plane.007"
+	 numVertices: "54"
+	 numFaces: "46"
+	
+	
+	name: "Plane.006"
+	numMeshes: 1
+	 addr: "000001FB0E029330"
+	 name: "Plane.008"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.008"
+	numMeshes: 1
+	 addr: "000001FAACBB1690"
+	 name: "Plane.009"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+	name: "Plane.010"
+	numMeshes: 1
+	 addr: "000001FBEE207AD0"
+	 name: "Plane.011"
+	 numVertices: "82"
+	 numFaces: "68"
+	
+	
+		name: "Plane.013"
+		numMeshes: 1
+		 addr: "000001FBEE204B00"
+		 name: "Plane.012"
+		 numVertices: "10"
+		 numFaces: "8"
+		
+		
+	name: "Plane.014"
+	numMeshes: 1
+	 addr: "000001FBEE2035C0"
+	 name: "Plane.013"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[10:08:19.668857] [Import] [info] (th=20748) File loaded successfully
+[10:08:19.668921] [Import] [info] (th=20748) Meshes count: 18
+[10:08:19.668983] [Import] [info] (th=20748) Materials count: 2
+[10:08:19.670187] [Import] [info] (th=20748) Textures count (imported): 3
+[10:14:41.742697] [Import] [info] (th=20748) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\!EXPORT\Grill.fbx
+[10:14:41.748513] [Import] [info] (th=20748) Imported scene tree:
+name: "RootNode"
+
+	name: "CageGate"
+	numMeshes: 1
+	 addr: "000001FBEE20CA80"
+	 name: "Plane.009"
+	 numVertices: "1990"
+	 numFaces: "1448"
+	
+	
+
+[10:14:41.748585] [Import] [info] (th=20748) File loaded successfully
+[10:14:41.748640] [Import] [info] (th=20748) Meshes count: 1
+[10:14:41.748804] [Import] [info] (th=20748) Materials count: 1
+[10:14:41.749120] [Import] [info] (th=20748) Textures count (imported): 1

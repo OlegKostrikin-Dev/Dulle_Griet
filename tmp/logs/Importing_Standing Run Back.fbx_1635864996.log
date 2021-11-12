@@ -1,0 +1,261 @@
+[17:56:36.063231] [Import] [info] (th=828) Log level for 'Import' set to 'info'
+[17:56:36.063326] [Import] [info] (th=828) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\GG\GG_export_NEW\Standing Run Back.fbx
+[17:56:36.079781] [Import] [info] (th=828) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "spine03"
+						
+							name: "clavicle_R"
+							
+								name: "upperarm_R"
+								
+									name: "lowerarm_R"
+									
+										name: "hand_R"
+										
+											name: "thumb01_R"
+											
+												name: "thumb02_R"
+												
+													name: "thumb03_R"
+													
+											name: "index01_R"
+											
+												name: "index02_R"
+												
+													name: "index03_R"
+													
+											name: "middle01_R"
+											
+												name: "middle02_R"
+												
+													name: "middle03_R"
+													
+											name: "ring01_R"
+											
+												name: "ring02_R"
+												
+													name: "ring03_R"
+													
+											name: "pinky01_R"
+											
+												name: "pinky02_R"
+												
+													name: "pinky03_R"
+													
+									name: "upperarm_ElbowShield"
+									
+								name: "Shoulder_Shield_R"
+								
+							name: "clavicle_L"
+							
+								name: "upperarm_L"
+								
+									name: "lowerarm_L"
+									
+										name: "hand_L"
+										
+											name: "thumb01_L"
+											
+												name: "thumb02_L"
+												
+													name: "thumb03_L"
+													
+											name: "index01_L"
+											
+												name: "index02_L"
+												
+													name: "index03_L"
+													
+											name: "middle01_L"
+											
+												name: "middle02_L"
+												
+													name: "middle03_L"
+													
+											name: "ring01_L"
+											
+												name: "ring02_L"
+												
+													name: "ring03_L"
+													
+											name: "pinky01_L"
+											
+												name: "pinky02_L"
+												
+													name: "pinky03_L"
+													
+								name: "Shoulder_Shield_L"
+								
+							name: "neck"
+							
+								name: "Head2"
+								
+									name: "Eye.R"
+									
+									name: "Eye.L"
+									
+					name: "bag"
+					
+				name: "Sheath"
+				
+
+[17:56:36.079829] [Import] [info] (th=828) File loaded successfully
+[17:56:36.079862] [Import] [info] (th=828) Meshes count: 0
+[17:56:36.079895] [Import] [info] (th=828) Materials count: 0
+[17:57:43.270612] [Import] [info] (th=828) Importing from E:\!_WORK\GAMEdev\Manu\Gretta\GG\GG_export_NEW\Running Backward.fbx
+[17:57:43.284644] [Import] [info] (th=828) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "spine03"
+						
+							name: "clavicle_R"
+							
+								name: "upperarm_R"
+								
+									name: "lowerarm_R"
+									
+										name: "hand_R"
+										
+											name: "thumb01_R"
+											
+												name: "thumb02_R"
+												
+													name: "thumb03_R"
+													
+											name: "index01_R"
+											
+												name: "index02_R"
+												
+													name: "index03_R"
+													
+											name: "middle01_R"
+											
+												name: "middle02_R"
+												
+													name: "middle03_R"
+													
+											name: "ring01_R"
+											
+												name: "ring02_R"
+												
+													name: "ring03_R"
+													
+											name: "pinky01_R"
+											
+												name: "pinky02_R"
+												
+													name: "pinky03_R"
+													
+									name: "upperarm_ElbowShield"
+									
+								name: "Shoulder_Shield_R"
+								
+							name: "clavicle_L"
+							
+								name: "upperarm_L"
+								
+									name: "lowerarm_L"
+									
+										name: "hand_L"
+										
+											name: "thumb01_L"
+											
+												name: "thumb02_L"
+												
+													name: "thumb03_L"
+													
+											name: "index01_L"
+											
+												name: "index02_L"
+												
+													name: "index03_L"
+													
+											name: "middle01_L"
+											
+												name: "middle02_L"
+												
+													name: "middle03_L"
+													
+											name: "ring01_L"
+											
+												name: "ring02_L"
+												
+													name: "ring03_L"
+													
+											name: "pinky01_L"
+											
+												name: "pinky02_L"
+												
+													name: "pinky03_L"
+													
+								name: "Shoulder_Shield_L"
+								
+							name: "neck"
+							
+								name: "Head2"
+								
+									name: "Eye.R"
+									
+									name: "Eye.L"
+									
+					name: "bag"
+					
+				name: "Sheath"
+				
+
+[17:57:43.284717] [Import] [info] (th=828) File loaded successfully
+[17:57:43.284827] [Import] [info] (th=828) Meshes count: 0
+[17:57:43.284923] [Import] [info] (th=828) Materials count: 0

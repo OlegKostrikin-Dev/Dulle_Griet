@@ -1,0 +1,124 @@
+[22:52:54.359920] [Import] [info] (th=2622392) Log level for 'Import' set to 'info'
+[22:52:54.359932] [Import] [info] (th=2622392) Importing from /Users/oleg/Dropbox/MANU Demo/Dr. John Husky/Happy Idle.fbx
+[22:52:54.375131] [Import] [info] (th=2622392) Imported scene tree:
+name: "RootNode"
+
+	name: "Husky_LH"
+	numMeshes: 1
+	 addr: "0x7fc1fff90000"
+	 name: "Plane.005"
+	 numVertices: "3808"
+	 numFaces: "4734"
+	
+	
+	name: "Main_armature"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "thumb01_R"
+										
+											name: "thumb02_R"
+											
+												name: "thumb03_R"
+												
+										name: "index01_R"
+										
+											name: "index02_R"
+											
+												name: "index03_R"
+												
+										name: "middle01_R"
+										
+											name: "middle02_R"
+											
+												name: "middle03_R"
+												
+										name: "lit1_R"
+										
+											name: "lit2_R"
+											
+												name: "lit3_R"
+												
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+										name: "thumb01_L"
+										
+											name: "thumb02_L"
+											
+												name: "thumb03_L"
+												
+										name: "index01_L"
+										
+											name: "index02_L"
+											
+												name: "index03_L"
+												
+										name: "middle01_L"
+										
+											name: "middle02_L"
+											
+												name: "middle03_L"
+												
+										name: "lit1_L"
+										
+											name: "lit2_L"
+											
+												name: "lit3_L"
+												
+						name: "neck"
+						
+							name: "Head"
+							
+								name: "jaw"
+								
+									name: "tongue1"
+									
+										name: "tongue2"
+										
+											name: "tongue3"
+											
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "tail"
+				
+
+[22:52:54.375141] [Import] [info] (th=2622392) File loaded successfully
+[22:52:54.375143] [Import] [info] (th=2622392) Meshes count: 1
+[22:52:54.375145] [Import] [info] (th=2622392) Materials count: 1
+[22:52:54.375243] [Import] [warning] (th=2622392) Texture not found: /Users/oleg/Dropbox/MANU Demo/Dr. John Husky/E:/!_WORK/GAMEdev/Manu/TutorGame_1/MAIN_hero/DOG_mh_pants_2048/DOG_mh_Pants_DefaultMaterial_BaseColor.png
+[22:52:54.375279] [Import] [warning] (th=2622392) Texture not found: /Users/oleg/Dropbox/MANU Demo/Dr. John Husky/E:/!_WORK/GAMEdev/Manu/TutorGame_1/MAIN_hero/DOG_mh_pants_2048/DOG_mh_Pants_DefaultMaterial_Normal_OGL.png
+[22:52:54.375292] [Import] [info] (th=2622392) Textures count (imported): 0

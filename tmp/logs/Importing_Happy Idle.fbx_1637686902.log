@@ -1,0 +1,244 @@
+[20:01:42.349294] [Import] [info] (th=73461) Log level for 'Import' set to 'info'
+[20:01:42.349315] [Import] [info] (th=73461) Importing from /Users/oleg/Dropbox/MANU Demo/Dr. John Husky/Happy Idle.fbx
+[20:01:42.375971] [Import] [info] (th=73461) Imported scene tree:
+name: "RootNode"
+
+	name: "Husky_LH"
+	numMeshes: 1
+	 addr: "0x7fd133aab800"
+	 name: "Plane.005"
+	 numVertices: "3808"
+	 numFaces: "4734"
+	
+	
+	name: "Main_armature"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "thumb01_R"
+										
+											name: "thumb02_R"
+											
+												name: "thumb03_R"
+												
+										name: "index01_R"
+										
+											name: "index02_R"
+											
+												name: "index03_R"
+												
+										name: "middle01_R"
+										
+											name: "middle02_R"
+											
+												name: "middle03_R"
+												
+										name: "lit1_R"
+										
+											name: "lit2_R"
+											
+												name: "lit3_R"
+												
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+										name: "thumb01_L"
+										
+											name: "thumb02_L"
+											
+												name: "thumb03_L"
+												
+										name: "index01_L"
+										
+											name: "index02_L"
+											
+												name: "index03_L"
+												
+										name: "middle01_L"
+										
+											name: "middle02_L"
+											
+												name: "middle03_L"
+												
+										name: "lit1_L"
+										
+											name: "lit2_L"
+											
+												name: "lit3_L"
+												
+						name: "neck"
+						
+							name: "Head"
+							
+								name: "jaw"
+								
+									name: "tongue1"
+									
+										name: "tongue2"
+										
+											name: "tongue3"
+											
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "tail"
+				
+
+[20:01:42.375989] [Import] [info] (th=73461) File loaded successfully
+[20:01:42.375992] [Import] [info] (th=73461) Meshes count: 1
+[20:01:42.375994] [Import] [info] (th=73461) Materials count: 1
+[20:01:42.376213] [Import] [warning] (th=73461) Texture not found: /Users/oleg/Dropbox/MANU Demo/Dr. John Husky/E:/!_WORK/GAMEdev/Manu/TutorGame_1/MAIN_hero/DOG_mh_pants_2048/DOG_mh_Pants_DefaultMaterial_BaseColor.png
+[20:01:42.376264] [Import] [warning] (th=73461) Texture not found: /Users/oleg/Dropbox/MANU Demo/Dr. John Husky/E:/!_WORK/GAMEdev/Manu/TutorGame_1/MAIN_hero/DOG_mh_pants_2048/DOG_mh_Pants_DefaultMaterial_Normal_OGL.png
+[20:01:42.376721] [Import] [info] (th=73461) Textures count (imported): 0
+[20:04:16.282819] [Import] [info] (th=73461) Importing from /Users/oleg/Dropbox/MANU Demo/Dr. John Husky/Waving Gesture.fbx
+[20:04:16.308755] [Import] [info] (th=73461) Imported scene tree:
+name: "RootNode"
+
+	name: "Husky_LH"
+	numMeshes: 1
+	 addr: "0x7fd1021b7400"
+	 name: "Plane.005"
+	 numVertices: "3808"
+	 numFaces: "4734"
+	
+	
+	name: "Main_armature"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "thumb01_R"
+										
+											name: "thumb02_R"
+											
+												name: "thumb03_R"
+												
+										name: "index01_R"
+										
+											name: "index02_R"
+											
+												name: "index03_R"
+												
+										name: "middle01_R"
+										
+											name: "middle02_R"
+											
+												name: "middle03_R"
+												
+										name: "lit1_R"
+										
+											name: "lit2_R"
+											
+												name: "lit3_R"
+												
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+										name: "thumb01_L"
+										
+											name: "thumb02_L"
+											
+												name: "thumb03_L"
+												
+										name: "index01_L"
+										
+											name: "index02_L"
+											
+												name: "index03_L"
+												
+										name: "middle01_L"
+										
+											name: "middle02_L"
+											
+												name: "middle03_L"
+												
+										name: "lit1_L"
+										
+											name: "lit2_L"
+											
+												name: "lit3_L"
+												
+						name: "neck"
+						
+							name: "Head"
+							
+								name: "jaw"
+								
+									name: "tongue1"
+									
+										name: "tongue2"
+										
+											name: "tongue3"
+											
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "tail"
+				
+
+[20:04:16.308773] [Import] [info] (th=73461) File loaded successfully
+[20:04:16.308776] [Import] [info] (th=73461) Meshes count: 1
+[20:04:16.308778] [Import] [info] (th=73461) Materials count: 1
